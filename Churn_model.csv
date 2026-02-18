@@ -1,0 +1,1001 @@
+Age,Gender,MaritalStatus,IncomeLevel,InteractionDate,InteractionType,ResolutionStatus,LastLoginDate,LoginFrequency,ServiceUsage,AmountSpent,ProductCategory,MonthYear,ChurnStatus,IncomeLevelClass
+62.0,M,Single,Low,2022-03-31,Inquiry,Resolved,2023-10-21,34.0,Mobile App,416.5,Electronics,2022-03,0.0,1
+65.0,M,Married,Low,2022-03-17,Inquiry,Resolved,2023-12-05,5.0,Website,54.96,Clothing,2022-08,1.0,1
+18.0,M,Single,Low,2022-08-24,Inquiry,Resolved,2023-11-15,3.0,Website,197.5,Electronics,2022-07,0.0,1
+21.0,M,Widowed,Low,2022-11-18,Inquiry,Resolved,2023-08-25,2.0,Website,101.31,Furniture,2022-01,0.0,1
+21.0,M,Divorced,Medium,2022-07-03,Inquiry,Unresolved,2023-10-27,41.0,Website,397.37,Clothing,2022-07,0.0,2
+57.0,F,Divorced,Medium,2022-05-05,Feedback,Resolved,2023-09-17,2.0,Website,285.21,Electronics,2022-01,0.0,2
+27.0,F,Married,High,2022-04-29,Inquiry,Unresolved,2023-01-07,32.0,Mobile App,311.34,Electronics,2022-09,0.0,3
+37.0,M,Single,Low,2022-09-13,Feedback,Unresolved,2023-04-22,17.0,Online Banking,199.73,Groceries,2022-11,1.0,1
+39.0,M,Divorced,High,2022-08-15,Inquiry,Resolved,2023-06-27,24.0,Website,241.06,Books,2022-10,0.0,3
+68.0,M,Married,High,2022-10-28,Feedback,Resolved,2023-01-13,29.0,Online Banking,51.07,Clothing,2022-08,1.0,3
+54.0,M,Divorced,Medium,2022-01-26,Feedback,Unresolved,2023-01-22,30.0,Online Banking,419.95,Furniture,2022-09,0.0,2
+41.0,F,Married,Low,2022-11-29,Feedback,Resolved,2023-12-31,43.0,Website,287.72,Groceries,2022-07,0.0,1
+24.0,F,Divorced,Low,2022-01-12,Inquiry,Unresolved,2023-07-05,10.0,Mobile App,299.86,Groceries,2022-03,0.0,1
+42.0,M,Widowed,Medium,2022-07-27,Complaint,Resolved,2023-01-10,26.0,Online Banking,403.32,Furniture,2022-02,0.0,2
+42.0,M,Divorced,Medium,2022-07-25,Complaint,Unresolved,2023-06-15,44.0,Online Banking,125.64,Electronics,2022-07,0.0,2
+30.0,F,Single,Medium,2022-07-29,Feedback,Resolved,2023-03-15,41.0,Online Banking,123.59,Groceries,2022-12,1.0,2
+19.0,M,Married,Low,2022-10-18,Feedback,Unresolved,2023-09-03,8.0,Online Banking,241.45,Electronics,2022-12,0.0,1
+56.0,F,Married,High,2022-02-04,Complaint,Unresolved,2023-11-24,37.0,Website,44.22,Clothing,2022-12,1.0,3
+57.0,F,Divorced,High,2022-06-30,Inquiry,Resolved,2023-03-08,39.0,Online Banking,382.39,Furniture,2022-05,0.0,3
+41.0,M,Single,Low,2022-09-08,Inquiry,Resolved,2023-08-15,16.0,Website,475.69,Groceries,2022-02,0.0,1
+64.0,M,Divorced,High,2022-05-11,Inquiry,Unresolved,2023-06-16,18.0,Website,178.91,Furniture,2022-08,0.0,3
+42.0,F,Divorced,Low,2022-05-06,Inquiry,Resolved,2023-05-06,42.0,Mobile App,373.51,Groceries,2022-12,0.0,1
+35.0,F,Divorced,Low,2022-11-08,Inquiry,Unresolved,2023-07-07,19.0,Mobile App,155.76,Electronics,2022-10,0.0,1
+55.0,M,Widowed,Medium,2022-11-28,Complaint,Unresolved,2023-10-04,12.0,Mobile App,308.8,Electronics,2022-07,0.0,2
+43.0,F,Married,Low,2022-04-18,Complaint,Unresolved,2023-02-15,27.0,Mobile App,219.98,Furniture,2022-08,0.0,1
+31.0,M,Single,Medium,2022-07-19,Feedback,Resolved,2023-09-29,45.0,Mobile App,218.98,Electronics,2022-12,1.0,2
+26.0,M,Widowed,Medium,2022-01-07,Inquiry,Resolved,2023-10-01,22.0,Mobile App,69.86,Groceries,2022-05,0.0,2
+27.0,F,Widowed,High,2022-08-06,Inquiry,Resolved,2023-10-26,42.0,Online Banking,365.57,Books,2022-08,0.0,3
+38.0,F,Divorced,Medium,2022-03-18,Complaint,Unresolved,2023-09-02,34.0,Website,448.86,Clothing,2022-10,0.0,2
+69.0,M,Divorced,High,2022-02-23,Complaint,Resolved,2023-07-12,38.0,Website,41.7,Furniture,2022-08,0.0,3
+34.0,M,Divorced,Low,2022-11-02,Complaint,Resolved,2023-08-17,23.0,Online Banking,104.0,Furniture,2022-07,0.0,1
+69.0,F,Married,High,2022-12-06,Feedback,Resolved,2023-01-06,48.0,Mobile App,204.16,Electronics,2022-10,0.0,3
+23.0,M,Divorced,High,2022-12-12,Complaint,Resolved,2023-05-19,24.0,Mobile App,86.73,Books,2022-10,1.0,3
+33.0,M,Widowed,High,2022-06-13,Feedback,Unresolved,2023-04-03,44.0,Online Banking,263.24,Books,2022-10,0.0,3
+65.0,M,Married,Low,2022-04-14,Complaint,Unresolved,2023-05-23,19.0,Mobile App,483.91,Clothing,2022-11,0.0,1
+18.0,F,Widowed,Low,2022-12-01,Inquiry,Unresolved,2023-02-11,6.0,Online Banking,240.92,Books,2022-07,0.0,1
+36.0,F,Married,Medium,2022-09-13,Inquiry,Resolved,2023-08-28,3.0,Online Banking,346.24,Clothing,2022-06,0.0,2
+53.0,F,Married,Low,2022-04-14,Feedback,Unresolved,2023-11-27,47.0,Online Banking,253.68,Furniture,2022-07,0.0,1
+42.0,M,Married,Medium,2022-04-04,Complaint,Resolved,2023-01-20,26.0,Online Banking,161.56,Electronics,2022-09,0.0,2
+67.0,F,Widowed,Low,2022-10-16,Complaint,Unresolved,2023-10-14,20.0,Website,297.33,Furniture,2022-03,0.0,1
+69.0,F,Married,High,2022-06-18,Inquiry,Resolved,2023-07-04,38.0,Mobile App,96.67,Electronics,2022-06,1.0,3
+47.0,M,Widowed,Medium,2022-05-09,Complaint,Resolved,2023-07-17,10.0,Mobile App,472.21,Clothing,2022-06,0.0,2
+37.0,M,Single,Low,2022-05-30,Feedback,Resolved,2023-05-25,25.0,Mobile App,44.26,Groceries,2022-01,0.0,1
+37.0,F,Widowed,Low,2022-07-02,Feedback,Resolved,2023-11-13,35.0,Mobile App,378.14,Groceries,2022-10,0.0,1
+32.0,F,Widowed,Low,2022-05-19,Feedback,Unresolved,2023-09-02,49.0,Online Banking,325.96,Clothing,2022-05,0.0,1
+57.0,F,Married,High,2022-07-07,Complaint,Unresolved,2023-07-31,24.0,Online Banking,5.86,Furniture,2022-09,1.0,3
+50.0,F,Married,Medium,2022-10-28,Feedback,Resolved,2023-04-19,21.0,Website,35.29,Clothing,2022-10,0.0,2
+19.0,M,Divorced,Medium,2022-03-20,Complaint,Resolved,2023-06-12,34.0,Website,303.4,Groceries,2022-08,0.0,2
+27.0,F,Single,Medium,2022-03-25,Inquiry,Resolved,2023-02-19,18.0,Online Banking,223.85,Furniture,2022-09,0.0,2
+50.0,F,Single,Low,2022-11-23,Complaint,Resolved,2023-07-15,19.0,Online Banking,471.18,Furniture,2022-01,0.0,1
+49.0,M,Divorced,Medium,2022-02-26,Inquiry,Unresolved,2023-10-31,3.0,Mobile App,179.0,Groceries,2022-06,1.0,2
+28.0,M,Widowed,Medium,2022-04-01,Inquiry,Unresolved,2023-02-16,6.0,Mobile App,178.78,Electronics,2022-09,0.0,2
+41.0,F,Widowed,Low,2022-11-16,Inquiry,Resolved,2023-10-02,20.0,Mobile App,334.62,Books,2022-06,0.0,1
+53.0,F,Married,Low,2022-04-18,Feedback,Unresolved,2023-01-20,22.0,Online Banking,462.0,Groceries,2022-03,0.0,1
+29.0,F,Single,Low,2022-06-25,Complaint,Unresolved,2023-08-18,33.0,Website,163.78,Books,2022-09,0.0,1
+68.0,F,Married,Low,2022-02-27,Complaint,Unresolved,2023-08-20,14.0,Mobile App,426.06,Books,2022-12,0.0,1
+46.0,F,Divorced,High,2022-11-03,Feedback,Unresolved,2023-07-20,44.0,Online Banking,347.37,Groceries,2022-10,0.0,3
+52.0,M,Single,High,2022-01-12,Feedback,Resolved,2023-04-17,9.0,Online Banking,87.1,Electronics,2022-11,0.0,3
+18.0,M,Married,Medium,2022-11-21,Complaint,Resolved,2023-12-11,45.0,Online Banking,173.13,Electronics,2022-09,0.0,2
+18.0,F,Single,High,2022-12-07,Complaint,Unresolved,2023-03-02,25.0,Mobile App,54.17,Clothing,2022-07,0.0,3
+54.0,M,Single,Low,2022-07-17,Inquiry,Unresolved,2023-12-27,47.0,Website,164.72,Books,2022-08,1.0,1
+23.0,F,Married,High,2022-01-21,Complaint,Unresolved,2023-08-27,16.0,Mobile App,442.99,Furniture,2022-06,0.0,3
+56.0,M,Married,Low,2022-06-08,Feedback,Resolved,2023-05-26,7.0,Mobile App,412.2,Furniture,2022-04,0.0,1
+58.0,F,Single,High,2022-03-27,Feedback,Unresolved,2023-06-03,11.0,Online Banking,186.37,Groceries,2022-05,0.0,3
+35.0,F,Divorced,Low,2022-04-10,Complaint,Resolved,2023-09-25,27.0,Mobile App,150.22,Books,2022-11,0.0,1
+33.0,M,Widowed,Medium,2022-12-27,Inquiry,Resolved,2023-08-17,40.0,Online Banking,478.59,Groceries,2022-06,0.0,2
+22.0,F,Single,Medium,2022-03-02,Complaint,Resolved,2023-07-23,17.0,Online Banking,335.44,Clothing,2022-10,0.0,2
+59.0,F,Divorced,High,2022-04-29,Inquiry,Resolved,2023-07-25,5.0,Website,468.35,Furniture,2022-01,1.0,3
+60.0,F,Single,Low,2022-05-21,Inquiry,Resolved,2023-11-13,29.0,Mobile App,213.22,Groceries,2022-02,0.0,1
+49.0,F,Married,Medium,2022-06-06,Complaint,Unresolved,2023-03-15,10.0,Mobile App,156.21,Groceries,2022-06,0.0,2
+19.0,F,Divorced,Low,2022-01-26,Inquiry,Unresolved,2023-08-17,47.0,Online Banking,283.39,Books,2022-03,1.0,1
+19.0,F,Divorced,High,2022-10-05,Feedback,Resolved,2023-04-25,25.0,Online Banking,383.9,Electronics,2022-11,1.0,3
+57.0,M,Single,Low,2022-01-21,Inquiry,Unresolved,2023-10-27,24.0,Online Banking,160.79,Books,2022-04,1.0,1
+59.0,M,Widowed,Low,2022-04-13,Feedback,Resolved,2023-02-19,44.0,Mobile App,273.54,Furniture,2022-01,0.0,1
+53.0,F,Single,High,2022-01-08,Complaint,Unresolved,2023-06-17,12.0,Mobile App,68.63,Groceries,2022-05,1.0,3
+56.0,F,Widowed,Medium,2022-01-02,Complaint,Resolved,2023-05-09,5.0,Website,406.29,Groceries,2022-01,1.0,2
+29.0,M,Divorced,High,2022-08-15,Inquiry,Resolved,2023-10-15,29.0,Online Banking,151.88,Furniture,2022-08,0.0,3
+64.0,M,Widowed,Low,2022-03-02,Complaint,Resolved,2023-10-07,35.0,Mobile App,185.6,Clothing,2022-12,0.0,1
+36.0,M,Married,High,2022-08-21,Inquiry,Resolved,2023-04-20,23.0,Online Banking,52.67,Books,2022-11,1.0,3
+45.0,M,Widowed,High,2022-11-18,Inquiry,Resolved,2023-06-09,32.0,Mobile App,352.99,Books,2022-07,0.0,3
+18.0,F,Widowed,Low,2022-11-01,Complaint,Unresolved,2023-12-03,40.0,Website,250.51,Furniture,2022-11,1.0,1
+32.0,F,Divorced,High,2022-11-23,Inquiry,Unresolved,2023-05-08,19.0,Mobile App,154.7,Books,2022-11,0.0,3
+53.0,M,Widowed,Medium,2022-01-28,Complaint,Resolved,2023-12-31,25.0,Mobile App,470.53,Clothing,2022-08,0.0,2
+30.0,M,Divorced,Medium,2022-03-21,Feedback,Unresolved,2023-11-30,45.0,Online Banking,97.06,Electronics,2022-08,0.0,2
+60.0,M,Married,High,2022-04-22,Feedback,Unresolved,2023-08-08,37.0,Mobile App,159.18,Furniture,2022-12,0.0,3
+38.0,M,Married,Low,2022-12-10,Inquiry,Resolved,2023-10-18,1.0,Website,147.82,Furniture,2022-09,0.0,1
+29.0,F,Single,High,2022-03-01,Complaint,Unresolved,2023-11-22,43.0,Website,334.33,Books,2022-11,0.0,3
+22.0,M,Single,High,2022-09-04,Inquiry,Resolved,2023-02-08,13.0,Online Banking,67.2,Groceries,2022-06,0.0,3
+24.0,M,Single,Medium,2022-05-24,Inquiry,Unresolved,2023-09-06,12.0,Mobile App,92.54,Electronics,2022-09,0.0,2
+22.0,M,Married,Medium,2022-01-14,Feedback,Resolved,2023-05-30,47.0,Online Banking,344.04,Electronics,2022-07,0.0,2
+65.0,F,Widowed,Low,2022-10-06,Feedback,Unresolved,2023-02-03,43.0,Mobile App,431.79,Books,2022-07,0.0,1
+21.0,F,Divorced,Low,2022-03-28,Inquiry,Resolved,2023-07-01,37.0,Mobile App,121.62,Furniture,2022-11,0.0,1
+30.0,F,Married,Low,2022-04-07,Complaint,Resolved,2023-10-16,42.0,Mobile App,124.02,Clothing,2022-06,0.0,1
+54.0,M,Widowed,High,2022-10-07,Complaint,Resolved,2023-06-27,41.0,Website,444.06,Groceries,2022-07,0.0,3
+58.0,F,Single,High,2022-07-30,Complaint,Resolved,2023-06-20,12.0,Online Banking,164.11,Groceries,2022-05,0.0,3
+32.0,F,Divorced,High,2022-01-26,Complaint,Unresolved,2023-02-27,36.0,Mobile App,97.23,Furniture,2022-08,0.0,3
+33.0,M,Single,High,2022-02-20,Complaint,Unresolved,2023-12-20,38.0,Website,281.73,Books,2022-04,0.0,3
+38.0,F,Divorced,Low,2022-04-16,Inquiry,Resolved,2023-05-23,9.0,Mobile App,154.09,Furniture,2022-02,0.0,1
+53.0,M,Widowed,Low,2022-08-11,Complaint,Resolved,2023-02-10,14.0,Online Banking,254.22,Books,2022-01,0.0,1
+41.0,F,Married,Low,2022-11-28,Feedback,Resolved,2023-06-02,45.0,Online Banking,382.15,Furniture,2022-10,1.0,1
+33.0,F,Single,High,2022-02-03,Feedback,Resolved,2023-01-15,35.0,Online Banking,477.83,Furniture,2022-05,0.0,3
+31.0,M,Married,High,2022-12-01,Complaint,Resolved,2023-01-14,32.0,Online Banking,19.8,Groceries,2022-07,0.0,3
+39.0,M,Widowed,Low,2022-10-21,Feedback,Unresolved,2023-04-27,46.0,Mobile App,125.66,Furniture,2022-12,0.0,1
+66.0,F,Widowed,Medium,2022-05-07,Inquiry,Resolved,2023-03-23,3.0,Online Banking,11.82,Clothing,2022-12,1.0,2
+67.0,F,Widowed,Low,2022-10-30,Feedback,Resolved,2023-12-24,30.0,Website,345.75,Groceries,2022-07,0.0,1
+23.0,M,Married,High,2022-09-03,Complaint,Unresolved,2023-07-20,49.0,Mobile App,191.96,Electronics,2022-12,0.0,3
+59.0,F,Married,High,2022-09-27,Feedback,Resolved,2023-01-27,7.0,Online Banking,324.99,Clothing,2022-02,1.0,3
+53.0,M,Divorced,Low,2022-12-25,Feedback,Resolved,2023-03-24,1.0,Mobile App,488.22,Clothing,2022-11,1.0,1
+18.0,M,Married,Medium,2022-04-22,Inquiry,Unresolved,2023-04-28,20.0,Mobile App,39.34,Groceries,2022-10,0.0,2
+49.0,M,Married,Medium,2022-01-03,Inquiry,Resolved,2023-10-10,25.0,Website,485.84,Clothing,2022-09,1.0,2
+23.0,F,Widowed,High,2022-10-16,Inquiry,Unresolved,2023-06-17,33.0,Website,122.1,Groceries,2022-09,1.0,3
+48.0,F,Divorced,High,2022-06-08,Inquiry,Unresolved,2023-10-16,35.0,Website,315.55,Furniture,2022-04,0.0,3
+18.0,F,Married,High,2022-05-03,Complaint,Unresolved,2023-04-12,44.0,Online Banking,462.1,Books,2022-04,0.0,3
+67.0,F,Married,Low,2022-05-21,Inquiry,Resolved,2023-08-02,24.0,Website,97.31,Books,2022-02,0.0,1
+68.0,F,Widowed,High,2022-07-20,Feedback,Unresolved,2023-09-21,14.0,Mobile App,217.3,Groceries,2022-04,0.0,3
+54.0,M,Married,High,2022-11-13,Inquiry,Unresolved,2023-08-20,39.0,Mobile App,64.35,Books,2022-03,0.0,3
+52.0,F,Widowed,High,2022-05-14,Inquiry,Unresolved,2023-12-25,44.0,Online Banking,153.58,Books,2022-03,0.0,3
+66.0,M,Divorced,Medium,2022-12-11,Complaint,Unresolved,2023-10-01,34.0,Online Banking,380.48,Groceries,2022-08,0.0,2
+47.0,M,Widowed,Medium,2022-08-08,Inquiry,Resolved,2023-03-29,18.0,Mobile App,247.99,Furniture,2022-08,1.0,2
+21.0,F,Widowed,High,2022-12-05,Feedback,Resolved,2023-02-23,2.0,Online Banking,463.48,Groceries,2022-10,0.0,3
+52.0,M,Divorced,Medium,2022-03-05,Inquiry,Unresolved,2023-09-09,38.0,Mobile App,218.65,Clothing,2022-10,0.0,2
+60.0,F,Single,Medium,2022-03-09,Inquiry,Resolved,2023-06-14,17.0,Mobile App,89.96,Furniture,2022-05,1.0,2
+31.0,M,Widowed,Medium,2022-08-16,Complaint,Unresolved,2023-03-15,23.0,Mobile App,402.9,Books,2022-09,1.0,2
+66.0,M,Married,Medium,2022-05-26,Complaint,Resolved,2023-02-19,33.0,Website,159.75,Furniture,2022-02,0.0,2
+57.0,M,Widowed,Low,2022-02-02,Inquiry,Unresolved,2023-06-21,28.0,Online Banking,345.79,Groceries,2022-11,0.0,1
+39.0,F,Divorced,Medium,2022-01-19,Complaint,Resolved,2023-05-14,15.0,Website,457.01,Books,2022-04,0.0,2
+27.0,F,Married,Medium,2022-02-26,Feedback,Resolved,2023-01-18,11.0,Website,273.08,Groceries,2022-01,0.0,2
+18.0,F,Divorced,Medium,2022-05-25,Feedback,Unresolved,2023-07-07,23.0,Website,414.86,Books,2022-02,1.0,2
+28.0,F,Widowed,Medium,2022-11-07,Complaint,Resolved,2023-03-21,13.0,Website,76.78,Clothing,2022-06,0.0,2
+68.0,M,Divorced,Low,2022-12-06,Complaint,Unresolved,2023-02-25,47.0,Mobile App,128.8,Books,2022-12,0.0,1
+61.0,F,Divorced,Low,2022-04-08,Complaint,Resolved,2023-09-24,11.0,Website,431.03,Furniture,2022-11,0.0,1
+41.0,F,Single,High,2022-04-01,Feedback,Resolved,2023-06-15,36.0,Website,485.5,Groceries,2022-02,0.0,3
+20.0,M,Widowed,Medium,2022-08-17,Inquiry,Resolved,2023-04-13,38.0,Mobile App,21.11,Clothing,2022-10,0.0,2
+52.0,M,Widowed,Medium,2022-11-11,Inquiry,Resolved,2023-01-05,27.0,Mobile App,330.41,Groceries,2022-09,0.0,2
+53.0,F,Widowed,High,2022-12-25,Feedback,Resolved,2023-06-19,18.0,Mobile App,392.9,Books,2022-09,0.0,3
+48.0,M,Widowed,Low,2022-12-04,Inquiry,Resolved,2023-11-07,40.0,Mobile App,41.46,Groceries,2022-10,0.0,1
+21.0,F,Married,High,2022-04-28,Feedback,Resolved,2023-06-19,38.0,Online Banking,318.48,Books,2022-12,1.0,3
+36.0,M,Divorced,Low,2022-06-02,Complaint,Resolved,2023-03-20,34.0,Online Banking,45.91,Furniture,2022-12,0.0,1
+64.0,F,Widowed,High,2022-08-17,Complaint,Unresolved,2023-06-03,22.0,Website,207.37,Clothing,2022-07,0.0,3
+53.0,M,Married,High,2022-05-10,Inquiry,Resolved,2023-10-21,18.0,Mobile App,288.66,Books,2022-05,0.0,3
+38.0,F,Widowed,Medium,2022-09-06,Feedback,Unresolved,2023-06-28,41.0,Online Banking,344.59,Furniture,2022-01,0.0,2
+35.0,M,Divorced,High,2022-12-03,Inquiry,Resolved,2023-04-27,18.0,Mobile App,390.78,Electronics,2022-05,0.0,3
+68.0,F,Widowed,Low,2022-08-12,Inquiry,Resolved,2023-12-25,13.0,Website,415.81,Electronics,2022-11,0.0,1
+45.0,F,Married,Low,2022-04-26,Inquiry,Unresolved,2023-02-18,39.0,Online Banking,191.92,Clothing,2022-07,1.0,1
+32.0,F,Married,High,2022-02-28,Inquiry,Unresolved,2023-10-11,16.0,Online Banking,172.02,Groceries,2022-07,0.0,3
+59.0,F,Divorced,Low,2022-03-19,Feedback,Resolved,2023-12-12,8.0,Mobile App,348.97,Clothing,2022-02,0.0,1
+19.0,F,Widowed,High,2022-07-18,Inquiry,Unresolved,2023-09-02,34.0,Mobile App,57.85,Groceries,2022-02,0.0,3
+54.0,F,Married,Medium,2022-04-27,Feedback,Resolved,2023-03-09,29.0,Website,56.85,Electronics,2022-12,0.0,2
+28.0,M,Single,Medium,2022-05-23,Complaint,Resolved,2023-02-17,6.0,Online Banking,329.36,Books,2022-01,0.0,2
+40.0,F,Widowed,Medium,2022-01-29,Complaint,Resolved,2023-06-29,38.0,Mobile App,467.92,Electronics,2022-07,0.0,2
+61.0,M,Single,Medium,2022-03-04,Feedback,Unresolved,2023-06-02,36.0,Mobile App,339.61,Furniture,2022-01,0.0,2
+58.0,F,Married,High,2022-12-07,Inquiry,Resolved,2023-09-30,48.0,Mobile App,325.01,Electronics,2022-09,0.0,3
+29.0,M,Married,Low,2022-07-15,Inquiry,Resolved,2023-01-26,42.0,Online Banking,183.51,Electronics,2022-11,0.0,1
+20.0,F,Divorced,High,2022-10-02,Complaint,Unresolved,2023-04-19,26.0,Mobile App,438.71,Books,2022-08,0.0,3
+69.0,M,Divorced,Low,2022-10-27,Feedback,Unresolved,2023-04-08,18.0,Website,25.15,Clothing,2022-02,0.0,1
+34.0,F,Widowed,High,2022-06-21,Complaint,Unresolved,2023-06-30,11.0,Mobile App,389.21,Clothing,2022-09,0.0,3
+50.0,M,Married,Low,2022-11-19,Feedback,Resolved,2023-06-13,27.0,Mobile App,257.88,Books,2022-09,0.0,1
+18.0,F,Married,Low,2022-03-21,Inquiry,Unresolved,2023-10-03,30.0,Online Banking,448.78,Electronics,2022-05,0.0,1
+56.0,M,Married,High,2022-06-12,Complaint,Resolved,2023-05-11,18.0,Website,314.38,Clothing,2022-12,0.0,3
+37.0,M,Married,Medium,2022-03-15,Complaint,Resolved,2023-05-02,43.0,Online Banking,101.96,Furniture,2022-01,1.0,2
+64.0,M,Single,High,2022-10-21,Feedback,Unresolved,2023-07-24,4.0,Mobile App,184.39,Clothing,2022-04,0.0,3
+60.0,F,Married,Medium,2022-11-21,Inquiry,Resolved,2023-06-11,6.0,Mobile App,194.45,Books,2022-03,0.0,2
+69.0,M,Divorced,High,2022-08-04,Complaint,Unresolved,2023-01-13,22.0,Mobile App,313.38,Books,2022-09,0.0,3
+58.0,F,Widowed,Low,2022-09-17,Complaint,Resolved,2023-11-25,2.0,Website,460.5,Groceries,2022-08,1.0,1
+31.0,F,Widowed,Medium,2022-11-24,Complaint,Resolved,2023-03-01,47.0,Mobile App,315.06,Electronics,2022-03,0.0,2
+48.0,F,Widowed,Low,2022-04-02,Complaint,Unresolved,2023-08-03,48.0,Online Banking,111.98,Groceries,2022-08,0.0,1
+42.0,F,Single,Low,2022-04-12,Inquiry,Unresolved,2023-03-03,40.0,Website,127.97,Books,2022-07,0.0,1
+20.0,M,Married,Low,2022-02-18,Inquiry,Unresolved,2023-08-29,32.0,Website,210.01,Clothing,2022-10,1.0,1
+21.0,F,Widowed,High,2022-07-19,Complaint,Resolved,2023-06-18,39.0,Mobile App,356.54,Clothing,2022-08,0.0,3
+48.0,M,Divorced,Low,2022-06-26,Complaint,Unresolved,2023-10-12,21.0,Website,332.46,Groceries,2022-11,1.0,1
+52.0,F,Single,High,2022-08-03,Feedback,Unresolved,2023-05-04,8.0,Mobile App,383.48,Clothing,2022-11,0.0,3
+61.0,M,Married,Medium,2022-11-27,Complaint,Resolved,2023-12-12,25.0,Website,242.66,Furniture,2022-12,0.0,2
+31.0,F,Married,Low,2022-03-04,Feedback,Resolved,2023-10-22,41.0,Mobile App,240.24,Clothing,2022-07,0.0,1
+66.0,F,Married,Medium,2022-10-15,Inquiry,Unresolved,2023-03-09,36.0,Mobile App,111.43,Furniture,2022-07,1.0,2
+58.0,M,Married,Medium,2022-12-06,Feedback,Resolved,2023-11-27,4.0,Website,51.23,Electronics,2022-01,0.0,2
+26.0,F,Single,High,2022-11-12,Feedback,Resolved,2023-09-23,15.0,Website,269.06,Books,2022-07,1.0,3
+37.0,F,Divorced,Medium,2022-12-04,Feedback,Resolved,2023-03-05,28.0,Website,76.57,Clothing,2022-03,0.0,2
+49.0,F,Married,High,2022-09-16,Complaint,Unresolved,2023-05-06,20.0,Website,298.83,Clothing,2022-12,0.0,3
+26.0,F,Single,High,2022-04-24,Complaint,Resolved,2023-09-06,38.0,Website,212.9,Electronics,2022-10,0.0,3
+44.0,F,Single,Medium,2022-07-09,Inquiry,Unresolved,2023-01-30,6.0,Online Banking,135.67,Furniture,2022-09,0.0,2
+20.0,F,Divorced,Medium,2022-01-05,Inquiry,Unresolved,2023-04-22,30.0,Mobile App,471.59,Books,2022-04,0.0,2
+21.0,F,Single,Medium,2022-09-16,Feedback,Resolved,2023-06-12,32.0,Online Banking,172.58,Electronics,2022-05,0.0,2
+62.0,F,Single,High,2022-01-26,Complaint,Unresolved,2023-04-21,49.0,Online Banking,97.55,Electronics,2022-06,1.0,3
+32.0,M,Widowed,High,2022-07-01,Inquiry,Resolved,2023-04-14,41.0,Online Banking,72.0,Electronics,2022-06,0.0,3
+50.0,F,Widowed,Medium,2022-11-14,Inquiry,Resolved,2023-10-23,4.0,Online Banking,445.86,Groceries,2022-03,0.0,2
+22.0,M,Divorced,High,2022-03-30,Complaint,Unresolved,2023-10-18,35.0,Mobile App,54.72,Electronics,2022-07,0.0,3
+21.0,F,Widowed,Medium,2022-01-24,Inquiry,Resolved,2023-01-09,30.0,Mobile App,452.54,Books,2022-10,0.0,2
+63.0,M,Single,High,2022-03-20,Inquiry,Unresolved,2023-03-29,49.0,Mobile App,198.88,Clothing,2022-04,0.0,3
+29.0,M,Single,High,2022-02-09,Inquiry,Unresolved,2023-06-21,41.0,Mobile App,487.83,Clothing,2022-12,0.0,3
+40.0,M,Divorced,Low,2022-08-30,Inquiry,Resolved,2023-04-01,22.0,Website,489.73,Clothing,2022-08,1.0,1
+31.0,F,Single,Low,2022-11-25,Inquiry,Resolved,2023-02-15,2.0,Website,288.97,Clothing,2022-03,0.0,1
+63.0,F,Divorced,Medium,2022-02-03,Inquiry,Resolved,2023-07-07,12.0,Website,426.1,Furniture,2022-10,0.0,2
+29.0,M,Widowed,Low,2022-10-22,Complaint,Resolved,2023-05-11,34.0,Website,413.56,Furniture,2022-06,0.0,1
+34.0,F,Widowed,High,2022-04-14,Inquiry,Resolved,2023-10-23,34.0,Website,269.85,Clothing,2022-03,0.0,3
+42.0,F,Married,Medium,2022-11-17,Complaint,Resolved,2023-03-07,14.0,Website,495.59,Books,2022-01,0.0,2
+47.0,M,Widowed,Low,2022-08-21,Feedback,Resolved,2023-01-22,39.0,Website,95.14,Groceries,2022-05,0.0,1
+39.0,F,Married,Medium,2022-01-04,Inquiry,Unresolved,2023-03-16,39.0,Online Banking,200.11,Furniture,2022-03,1.0,2
+64.0,M,Married,Medium,2022-09-13,Feedback,Resolved,2023-06-21,45.0,Online Banking,431.43,Books,2022-11,0.0,2
+43.0,M,Married,High,2022-09-03,Inquiry,Unresolved,2023-01-08,6.0,Website,24.88,Groceries,2022-02,0.0,3
+34.0,F,Single,Low,2022-03-21,Feedback,Resolved,2023-02-10,8.0,Online Banking,418.55,Groceries,2022-12,0.0,1
+37.0,M,Married,High,2022-06-08,Inquiry,Unresolved,2023-08-14,27.0,Online Banking,439.79,Electronics,2022-08,1.0,3
+51.0,F,Widowed,Medium,2022-03-29,Inquiry,Unresolved,2023-03-07,12.0,Mobile App,12.77,Groceries,2022-12,0.0,2
+58.0,F,Divorced,Medium,2022-01-18,Feedback,Resolved,2023-04-16,21.0,Website,90.54,Electronics,2022-07,0.0,2
+50.0,F,Widowed,Medium,2022-11-26,Complaint,Unresolved,2023-05-08,38.0,Online Banking,332.93,Furniture,2022-04,0.0,2
+54.0,F,Divorced,Low,2022-04-04,Feedback,Resolved,2023-01-27,4.0,Mobile App,315.91,Furniture,2022-04,0.0,1
+24.0,M,Widowed,High,2022-10-16,Inquiry,Unresolved,2023-11-27,25.0,Mobile App,312.32,Electronics,2022-03,0.0,3
+39.0,F,Divorced,High,2022-10-05,Feedback,Resolved,2023-03-28,43.0,Website,339.69,Furniture,2022-01,0.0,3
+49.0,F,Widowed,Low,2022-08-25,Feedback,Resolved,2023-06-03,24.0,Online Banking,100.36,Electronics,2022-06,0.0,1
+31.0,F,Divorced,High,2022-09-16,Inquiry,Unresolved,2023-10-12,12.0,Mobile App,281.66,Groceries,2022-05,0.0,3
+25.0,M,Married,High,2022-01-26,Complaint,Unresolved,2023-07-24,29.0,Online Banking,310.6,Groceries,2022-08,0.0,3
+42.0,M,Divorced,Medium,2022-04-27,Inquiry,Unresolved,2023-03-03,35.0,Online Banking,81.78,Furniture,2022-05,0.0,2
+33.0,F,Married,Medium,2022-07-15,Inquiry,Unresolved,2023-06-14,37.0,Website,151.94,Groceries,2022-06,0.0,2
+59.0,F,Widowed,Medium,2022-03-15,Complaint,Resolved,2023-02-23,30.0,Website,329.86,Furniture,2022-02,1.0,2
+36.0,F,Divorced,Low,2022-04-01,Complaint,Unresolved,2023-11-02,41.0,Online Banking,33.36,Clothing,2022-02,0.0,1
+58.0,F,Divorced,Medium,2022-11-16,Feedback,Resolved,2023-11-07,42.0,Online Banking,93.75,Books,2022-04,0.0,2
+33.0,F,Widowed,High,2022-04-11,Complaint,Resolved,2023-09-06,35.0,Mobile App,110.57,Books,2022-10,0.0,3
+29.0,M,Married,Low,2022-11-16,Inquiry,Resolved,2023-08-14,1.0,Online Banking,326.29,Groceries,2022-07,1.0,1
+56.0,F,Married,High,2022-08-21,Feedback,Unresolved,2023-06-12,40.0,Mobile App,218.4,Groceries,2022-04,0.0,3
+65.0,M,Single,Low,2022-03-26,Inquiry,Resolved,2023-07-18,26.0,Online Banking,305.2,Clothing,2022-08,0.0,1
+47.0,M,Single,High,2022-07-19,Inquiry,Resolved,2023-11-12,35.0,Online Banking,380.34,Groceries,2022-11,0.0,3
+19.0,F,Single,Low,2022-09-14,Feedback,Resolved,2023-06-16,42.0,Mobile App,256.88,Clothing,2022-03,1.0,1
+49.0,M,Divorced,High,2022-07-23,Complaint,Resolved,2023-06-03,7.0,Website,325.4,Electronics,2022-09,0.0,3
+62.0,F,Divorced,Medium,2022-08-28,Complaint,Resolved,2023-07-22,4.0,Online Banking,396.79,Books,2022-02,0.0,2
+42.0,M,Divorced,Low,2022-03-29,Feedback,Unresolved,2023-05-16,5.0,Website,330.62,Clothing,2022-07,0.0,1
+42.0,M,Widowed,High,2022-07-07,Feedback,Resolved,2023-07-15,39.0,Online Banking,423.71,Groceries,2022-11,0.0,3
+21.0,F,Single,High,2022-11-01,Feedback,Resolved,2023-03-10,11.0,Mobile App,227.58,Electronics,2022-07,0.0,3
+36.0,M,Widowed,High,2022-01-13,Complaint,Resolved,2023-11-08,15.0,Online Banking,36.53,Groceries,2022-02,1.0,3
+65.0,F,Single,High,2022-10-24,Complaint,Unresolved,2023-10-16,32.0,Website,300.42,Groceries,2022-12,0.0,3
+21.0,F,Single,Medium,2022-11-24,Inquiry,Unresolved,2023-12-23,37.0,Website,134.67,Electronics,2022-08,0.0,2
+60.0,F,Divorced,Medium,2022-09-20,Feedback,Resolved,2023-09-04,9.0,Online Banking,283.35,Furniture,2022-04,1.0,2
+30.0,F,Married,Low,2022-12-13,Feedback,Resolved,2023-02-20,47.0,Online Banking,154.22,Furniture,2022-10,1.0,1
+56.0,F,Single,Low,2022-04-03,Feedback,Unresolved,2023-09-08,32.0,Online Banking,180.48,Groceries,2022-11,0.0,1
+53.0,F,Married,High,2022-05-21,Complaint,Resolved,2023-09-18,33.0,Website,49.88,Electronics,2022-11,0.0,3
+40.0,M,Widowed,Low,2022-08-21,Inquiry,Resolved,2023-06-19,23.0,Online Banking,303.45,Clothing,2022-10,1.0,1
+23.0,M,Divorced,High,2022-01-14,Feedback,Unresolved,2023-12-28,15.0,Mobile App,158.06,Books,2022-03,0.0,3
+41.0,F,Single,Low,2022-05-11,Feedback,Resolved,2023-09-25,30.0,Online Banking,336.93,Furniture,2022-04,1.0,1
+61.0,M,Divorced,Low,2022-01-21,Feedback,Unresolved,2023-01-13,16.0,Online Banking,316.09,Books,2022-06,1.0,1
+50.0,M,Widowed,High,2022-08-04,Inquiry,Unresolved,2023-09-20,22.0,Mobile App,118.52,Clothing,2022-07,1.0,3
+29.0,F,Married,Medium,2022-07-11,Feedback,Resolved,2023-10-09,43.0,Mobile App,170.22,Electronics,2022-12,1.0,2
+58.0,M,Divorced,High,2022-08-12,Inquiry,Unresolved,2023-07-27,30.0,Online Banking,429.87,Furniture,2022-06,0.0,3
+38.0,F,Divorced,Medium,2022-09-09,Complaint,Unresolved,2023-12-19,1.0,Mobile App,191.81,Groceries,2022-09,0.0,2
+28.0,F,Single,Low,2022-02-11,Complaint,Resolved,2023-02-16,35.0,Online Banking,72.34,Books,2022-07,1.0,1
+61.0,M,Married,Medium,2022-03-16,Feedback,Unresolved,2023-12-09,18.0,Website,298.44,Electronics,2022-05,0.0,2
+55.0,F,Widowed,High,2022-11-24,Feedback,Unresolved,2023-06-21,15.0,Online Banking,223.89,Electronics,2022-06,0.0,3
+46.0,F,Single,Low,2022-09-20,Inquiry,Resolved,2023-05-18,21.0,Online Banking,62.73,Books,2022-03,0.0,1
+65.0,F,Divorced,Medium,2022-10-09,Inquiry,Resolved,2023-03-24,40.0,Mobile App,354.86,Groceries,2022-03,0.0,2
+58.0,F,Divorced,Medium,2022-02-24,Feedback,Unresolved,2023-12-24,2.0,Online Banking,413.93,Groceries,2022-09,0.0,2
+20.0,M,Married,High,2022-07-11,Feedback,Unresolved,2023-08-26,30.0,Online Banking,469.96,Groceries,2022-01,1.0,3
+45.0,F,Widowed,Low,2022-01-08,Feedback,Resolved,2023-02-06,40.0,Website,361.72,Clothing,2022-08,0.0,1
+37.0,M,Widowed,Low,2022-07-08,Complaint,Resolved,2023-01-09,32.0,Website,269.01,Furniture,2022-12,0.0,1
+43.0,F,Divorced,Medium,2022-07-07,Inquiry,Unresolved,2023-03-24,28.0,Website,23.42,Books,2022-04,1.0,2
+41.0,M,Widowed,Medium,2022-11-05,Complaint,Unresolved,2023-08-11,11.0,Online Banking,476.36,Electronics,2022-03,1.0,2
+69.0,M,Single,Medium,2022-03-24,Complaint,Resolved,2023-12-03,7.0,Online Banking,50.08,Furniture,2022-07,0.0,2
+64.0,F,Married,Low,2022-05-29,Complaint,Resolved,2023-08-25,1.0,Mobile App,401.25,Groceries,2022-02,1.0,1
+38.0,M,Divorced,Medium,2022-09-24,Feedback,Resolved,2023-06-17,43.0,Mobile App,218.92,Furniture,2022-07,0.0,2
+47.0,F,Widowed,Medium,2022-05-30,Complaint,Unresolved,2023-08-26,28.0,Mobile App,420.01,Books,2022-12,0.0,2
+21.0,F,Widowed,Low,2022-12-18,Inquiry,Unresolved,2023-01-31,39.0,Website,34.48,Groceries,2022-12,0.0,1
+53.0,M,Single,Low,2022-09-10,Complaint,Unresolved,2023-06-17,19.0,Mobile App,195.81,Groceries,2022-11,0.0,1
+57.0,M,Widowed,High,2022-03-15,Complaint,Unresolved,2023-03-16,39.0,Online Banking,64.35,Groceries,2022-03,0.0,3
+27.0,M,Single,Low,2022-09-30,Inquiry,Resolved,2023-08-24,32.0,Website,252.85,Books,2022-08,1.0,1
+27.0,M,Married,Low,2022-02-23,Feedback,Resolved,2023-05-29,49.0,Online Banking,68.92,Clothing,2022-06,1.0,1
+59.0,F,Divorced,High,2022-10-23,Complaint,Resolved,2023-02-04,30.0,Website,178.11,Groceries,2022-06,1.0,3
+41.0,M,Single,Low,2022-06-26,Complaint,Unresolved,2023-12-28,2.0,Website,283.1,Books,2022-07,0.0,1
+21.0,F,Widowed,High,2022-01-13,Complaint,Unresolved,2023-03-08,44.0,Online Banking,101.59,Clothing,2022-09,0.0,3
+64.0,M,Widowed,Low,2022-04-15,Inquiry,Resolved,2023-04-06,43.0,Online Banking,433.0,Furniture,2022-06,0.0,1
+44.0,M,Married,High,2022-10-13,Complaint,Resolved,2023-01-07,37.0,Online Banking,125.76,Groceries,2022-04,0.0,3
+68.0,F,Single,Medium,2022-07-22,Complaint,Resolved,2023-11-24,19.0,Online Banking,127.82,Clothing,2022-01,0.0,2
+62.0,M,Divorced,Medium,2022-07-12,Complaint,Unresolved,2023-12-19,26.0,Mobile App,341.18,Furniture,2022-03,0.0,2
+21.0,F,Widowed,Medium,2022-07-28,Inquiry,Resolved,2023-06-16,1.0,Mobile App,138.07,Groceries,2022-07,0.0,2
+49.0,M,Single,High,2022-04-16,Complaint,Unresolved,2023-04-12,42.0,Mobile App,365.65,Books,2022-07,0.0,3
+27.0,M,Widowed,Medium,2022-05-13,Inquiry,Resolved,2023-10-28,28.0,Online Banking,462.05,Electronics,2022-09,1.0,2
+28.0,F,Divorced,Low,2022-08-10,Feedback,Unresolved,2023-07-16,26.0,Online Banking,255.32,Clothing,2022-05,1.0,1
+45.0,F,Single,High,2022-12-24,Inquiry,Resolved,2023-08-30,40.0,Mobile App,222.37,Books,2022-12,0.0,3
+63.0,F,Widowed,Low,2022-07-22,Complaint,Unresolved,2023-01-24,35.0,Online Banking,295.23,Electronics,2022-11,0.0,1
+25.0,F,Divorced,Low,2022-11-08,Feedback,Resolved,2023-06-15,3.0,Website,86.35,Books,2022-06,0.0,1
+57.0,F,Single,Low,2022-06-06,Feedback,Resolved,2023-06-02,26.0,Online Banking,216.17,Groceries,2022-02,1.0,1
+39.0,F,Single,High,2022-12-26,Inquiry,Resolved,2023-07-06,33.0,Mobile App,445.85,Clothing,2022-03,0.0,3
+51.0,F,Married,Low,2022-05-30,Complaint,Unresolved,2023-02-22,22.0,Online Banking,356.52,Electronics,2022-10,0.0,1
+62.0,M,Divorced,Medium,2022-04-18,Feedback,Unresolved,2023-04-12,6.0,Mobile App,326.58,Clothing,2022-11,0.0,2
+52.0,F,Single,High,2022-03-03,Feedback,Unresolved,2023-11-19,42.0,Online Banking,314.01,Books,2022-04,0.0,3
+52.0,M,Married,Medium,2022-05-20,Complaint,Resolved,2023-12-15,34.0,Online Banking,467.63,Clothing,2022-02,0.0,2
+42.0,M,Single,High,2022-07-07,Feedback,Resolved,2023-07-22,3.0,Online Banking,305.23,Groceries,2022-04,1.0,3
+51.0,F,Widowed,Low,2022-03-05,Inquiry,Resolved,2023-09-20,17.0,Online Banking,139.62,Electronics,2022-07,1.0,1
+23.0,M,Married,Medium,2022-12-02,Inquiry,Resolved,2023-05-15,6.0,Mobile App,51.58,Electronics,2022-10,0.0,2
+58.0,M,Single,High,2022-10-04,Inquiry,Unresolved,2023-08-31,42.0,Mobile App,101.31,Furniture,2022-12,0.0,3
+54.0,F,Widowed,Low,2022-01-09,Feedback,Unresolved,2023-04-03,5.0,Website,10.61,Electronics,2022-06,1.0,1
+18.0,M,Widowed,Low,2022-05-19,Feedback,Resolved,2023-06-10,20.0,Website,94.75,Clothing,2022-12,0.0,1
+29.0,F,Widowed,High,2022-03-16,Inquiry,Unresolved,2023-03-21,1.0,Website,457.37,Groceries,2022-04,0.0,3
+52.0,M,Married,High,2022-08-30,Inquiry,Unresolved,2023-11-14,24.0,Mobile App,218.36,Books,2022-02,0.0,3
+23.0,M,Widowed,High,2022-12-18,Feedback,Unresolved,2023-09-15,9.0,Mobile App,252.72,Furniture,2022-01,0.0,3
+34.0,F,Divorced,High,2022-06-08,Feedback,Unresolved,2023-09-26,15.0,Website,308.15,Electronics,2022-10,0.0,3
+26.0,M,Single,Medium,2022-05-17,Feedback,Resolved,2023-12-06,37.0,Website,118.1,Electronics,2022-02,0.0,2
+19.0,M,Divorced,High,2022-05-30,Inquiry,Unresolved,2023-01-26,18.0,Mobile App,91.91,Books,2022-11,0.0,3
+35.0,F,Widowed,Low,2022-08-06,Feedback,Unresolved,2023-03-19,22.0,Online Banking,116.15,Groceries,2022-01,0.0,1
+66.0,F,Widowed,Medium,2022-04-13,Inquiry,Resolved,2023-03-09,11.0,Website,272.02,Clothing,2022-08,0.0,2
+53.0,M,Divorced,Low,2022-06-11,Complaint,Unresolved,2023-12-01,38.0,Mobile App,359.92,Electronics,2022-09,0.0,1
+45.0,M,Married,Low,2022-04-10,Inquiry,Resolved,2023-10-06,3.0,Mobile App,387.43,Groceries,2022-03,0.0,1
+58.0,F,Widowed,High,2022-07-23,Inquiry,Resolved,2023-08-23,29.0,Website,68.98,Electronics,2022-12,0.0,3
+54.0,M,Widowed,Medium,2022-10-25,Feedback,Resolved,2023-11-04,46.0,Mobile App,189.74,Books,2022-11,0.0,2
+66.0,F,Divorced,High,2022-06-13,Feedback,Unresolved,2023-10-15,32.0,Website,436.58,Clothing,2022-12,0.0,3
+43.0,F,Widowed,Low,2022-10-16,Feedback,Resolved,2023-10-02,34.0,Online Banking,115.73,Furniture,2022-07,0.0,1
+21.0,M,Widowed,High,2022-12-04,Inquiry,Unresolved,2023-02-18,8.0,Website,328.22,Groceries,2022-03,0.0,3
+57.0,F,Married,High,2022-11-21,Inquiry,Resolved,2023-05-20,34.0,Online Banking,324.69,Furniture,2022-11,0.0,3
+53.0,F,Married,High,2022-10-25,Inquiry,Unresolved,2023-04-28,5.0,Online Banking,229.33,Furniture,2022-03,0.0,3
+68.0,M,Married,High,2022-11-17,Complaint,Unresolved,2023-07-15,9.0,Mobile App,124.41,Furniture,2022-04,0.0,3
+48.0,F,Married,High,2022-12-21,Inquiry,Unresolved,2023-05-03,17.0,Mobile App,286.35,Furniture,2022-12,0.0,3
+47.0,M,Married,High,2022-08-18,Complaint,Unresolved,2023-11-04,20.0,Mobile App,184.28,Electronics,2022-05,0.0,3
+67.0,M,Widowed,Medium,2022-07-26,Feedback,Unresolved,2023-10-23,42.0,Mobile App,494.58,Clothing,2022-08,0.0,2
+51.0,M,Single,High,2022-04-27,Feedback,Resolved,2023-04-16,27.0,Online Banking,118.54,Groceries,2022-11,0.0,3
+36.0,F,Widowed,Medium,2022-02-03,Feedback,Unresolved,2023-07-05,5.0,Online Banking,195.94,Electronics,2022-10,0.0,2
+35.0,M,Widowed,High,2022-09-08,Inquiry,Resolved,2023-07-07,46.0,Mobile App,165.51,Groceries,2022-07,1.0,3
+47.0,M,Single,Medium,2022-03-27,Inquiry,Unresolved,2023-06-23,29.0,Website,417.53,Electronics,2022-07,0.0,2
+38.0,M,Divorced,Low,2022-11-07,Feedback,Unresolved,2023-06-19,11.0,Online Banking,462.37,Furniture,2022-10,0.0,1
+20.0,M,Single,Medium,2022-01-05,Inquiry,Unresolved,2023-03-21,26.0,Mobile App,209.63,Groceries,2022-06,0.0,2
+23.0,F,Married,Medium,2022-06-03,Inquiry,Resolved,2023-10-09,23.0,Mobile App,202.31,Clothing,2022-02,1.0,2
+55.0,F,Widowed,Low,2022-11-03,Inquiry,Resolved,2023-01-28,18.0,Mobile App,78.23,Clothing,2022-12,0.0,1
+30.0,M,Married,High,2022-01-04,Feedback,Resolved,2023-06-02,20.0,Website,176.53,Books,2022-03,0.0,3
+62.0,F,Single,High,2022-09-30,Inquiry,Resolved,2023-09-11,44.0,Website,165.81,Groceries,2022-09,0.0,3
+20.0,F,Divorced,Medium,2022-09-29,Inquiry,Resolved,2023-03-12,21.0,Online Banking,19.43,Groceries,2022-09,0.0,2
+65.0,F,Divorced,High,2022-07-20,Feedback,Resolved,2023-02-11,26.0,Online Banking,407.13,Electronics,2022-01,0.0,3
+45.0,M,Widowed,High,2022-08-23,Complaint,Resolved,2023-10-30,32.0,Online Banking,150.04,Electronics,2022-12,0.0,3
+39.0,F,Single,Low,2022-12-08,Inquiry,Unresolved,2023-11-20,1.0,Online Banking,84.61,Clothing,2022-02,0.0,1
+57.0,F,Married,High,2022-03-16,Complaint,Resolved,2023-03-10,2.0,Website,285.49,Clothing,2022-08,1.0,3
+57.0,F,Married,High,2022-12-28,Inquiry,Resolved,2023-02-23,4.0,Mobile App,30.24,Books,2022-11,0.0,3
+29.0,F,Divorced,Medium,2022-06-07,Complaint,Resolved,2023-09-30,41.0,Online Banking,301.42,Clothing,2022-06,0.0,2
+40.0,F,Widowed,High,2022-03-10,Complaint,Resolved,2023-03-26,10.0,Website,57.28,Electronics,2022-07,0.0,3
+48.0,M,Single,High,2022-03-22,Inquiry,Unresolved,2023-08-27,28.0,Website,363.53,Groceries,2022-10,0.0,3
+35.0,F,Married,Medium,2022-02-19,Feedback,Unresolved,2023-04-17,49.0,Mobile App,237.01,Books,2022-11,0.0,2
+24.0,F,Divorced,Medium,2022-08-03,Inquiry,Unresolved,2023-08-13,37.0,Online Banking,228.66,Clothing,2022-05,0.0,2
+25.0,M,Widowed,Medium,2022-01-17,Complaint,Unresolved,2023-09-18,17.0,Mobile App,191.33,Books,2022-06,0.0,2
+36.0,M,Divorced,High,2022-05-21,Complaint,Unresolved,2023-01-02,30.0,Website,293.62,Furniture,2022-11,0.0,3
+46.0,M,Widowed,High,2022-02-04,Complaint,Unresolved,2023-12-06,6.0,Website,421.42,Books,2022-12,0.0,3
+61.0,M,Single,High,2022-02-28,Complaint,Unresolved,2023-12-13,11.0,Website,132.16,Clothing,2022-03,0.0,3
+37.0,F,Divorced,High,2022-01-13,Feedback,Resolved,2023-01-18,11.0,Online Banking,404.42,Furniture,2022-12,0.0,3
+67.0,F,Married,High,2022-11-27,Feedback,Resolved,2023-12-27,2.0,Mobile App,406.93,Electronics,2022-08,1.0,3
+59.0,F,Widowed,High,2022-05-03,Complaint,Unresolved,2023-01-25,20.0,Mobile App,363.4,Clothing,2022-08,0.0,3
+47.0,F,Divorced,Medium,2022-10-21,Inquiry,Unresolved,2023-08-26,34.0,Website,401.39,Furniture,2022-07,0.0,2
+64.0,F,Widowed,Medium,2022-05-03,Feedback,Unresolved,2023-12-04,41.0,Mobile App,284.85,Clothing,2022-01,0.0,2
+39.0,M,Divorced,High,2022-05-07,Inquiry,Resolved,2023-04-23,1.0,Website,492.36,Books,2022-12,0.0,3
+27.0,F,Divorced,Low,2022-08-24,Complaint,Unresolved,2023-09-21,48.0,Mobile App,100.63,Furniture,2022-01,0.0,1
+43.0,M,Single,Medium,2022-08-19,Complaint,Unresolved,2023-07-05,27.0,Online Banking,166.05,Groceries,2022-01,0.0,2
+68.0,M,Married,High,2022-10-21,Complaint,Unresolved,2023-10-02,26.0,Online Banking,172.53,Groceries,2022-10,1.0,3
+50.0,M,Divorced,Medium,2022-11-23,Complaint,Unresolved,2023-07-26,26.0,Online Banking,136.01,Clothing,2022-11,0.0,2
+45.0,F,Single,Low,2022-10-01,Complaint,Unresolved,2023-06-27,8.0,Mobile App,331.07,Electronics,2022-01,0.0,1
+27.0,F,Widowed,Medium,2022-12-30,Inquiry,Resolved,2023-09-08,29.0,Online Banking,184.84,Clothing,2022-01,0.0,2
+46.0,M,Widowed,Medium,2022-06-23,Feedback,Unresolved,2023-01-07,17.0,Online Banking,388.6,Clothing,2022-11,0.0,2
+61.0,M,Divorced,Medium,2022-11-22,Feedback,Resolved,2023-07-20,33.0,Mobile App,20.1,Clothing,2022-06,0.0,2
+35.0,M,Married,Medium,2022-05-04,Complaint,Unresolved,2023-11-30,1.0,Online Banking,40.85,Electronics,2022-07,0.0,2
+59.0,M,Widowed,High,2022-09-19,Inquiry,Unresolved,2023-08-20,24.0,Mobile App,114.94,Groceries,2022-02,0.0,3
+18.0,M,Divorced,Low,2022-12-18,Complaint,Resolved,2023-04-23,25.0,Online Banking,236.95,Clothing,2022-11,0.0,1
+40.0,M,Widowed,High,2022-06-10,Complaint,Resolved,2023-07-23,1.0,Mobile App,424.06,Groceries,2022-01,1.0,3
+34.0,F,Single,Medium,2022-10-16,Feedback,Resolved,2023-09-02,26.0,Website,160.7,Groceries,2022-02,0.0,2
+60.0,M,Divorced,Medium,2022-04-15,Feedback,Resolved,2023-03-19,16.0,Online Banking,102.27,Electronics,2022-10,1.0,2
+54.0,M,Divorced,Medium,2022-03-14,Feedback,Resolved,2023-07-13,49.0,Online Banking,451.24,Clothing,2022-04,0.0,2
+48.0,M,Divorced,Low,2022-02-10,Complaint,Unresolved,2023-01-06,33.0,Website,298.68,Clothing,2022-07,0.0,1
+42.0,M,Single,Low,2022-05-26,Feedback,Resolved,2023-07-15,28.0,Mobile App,137.62,Clothing,2022-06,0.0,1
+21.0,M,Divorced,High,2022-12-11,Feedback,Resolved,2023-09-10,45.0,Online Banking,211.69,Electronics,2022-04,0.0,3
+69.0,F,Divorced,Medium,2022-12-27,Feedback,Resolved,2023-01-17,24.0,Mobile App,231.01,Electronics,2022-05,1.0,2
+26.0,M,Single,Low,2022-10-03,Inquiry,Resolved,2023-05-03,36.0,Website,270.26,Furniture,2022-08,0.0,1
+45.0,F,Widowed,Medium,2022-04-08,Feedback,Unresolved,2023-03-26,14.0,Online Banking,236.75,Clothing,2022-08,0.0,2
+47.0,M,Single,High,2022-01-15,Complaint,Resolved,2023-04-19,49.0,Mobile App,317.21,Electronics,2022-06,0.0,3
+64.0,M,Married,High,2022-08-04,Inquiry,Resolved,2023-08-14,5.0,Mobile App,412.42,Clothing,2022-06,1.0,3
+41.0,F,Single,Low,2022-01-08,Inquiry,Unresolved,2023-01-01,27.0,Online Banking,443.75,Groceries,2022-03,0.0,1
+50.0,M,Widowed,High,2022-11-20,Feedback,Resolved,2023-08-28,14.0,Mobile App,136.43,Clothing,2022-08,0.0,3
+37.0,F,Divorced,Low,2022-07-06,Complaint,Unresolved,2023-10-29,24.0,Online Banking,208.07,Furniture,2022-08,1.0,1
+26.0,F,Divorced,Medium,2022-03-10,Complaint,Resolved,2023-01-16,46.0,Website,58.9,Books,2022-05,0.0,2
+25.0,F,Single,Low,2022-06-13,Complaint,Resolved,2023-09-16,28.0,Mobile App,214.25,Furniture,2022-09,0.0,1
+41.0,F,Married,High,2022-03-30,Complaint,Resolved,2023-01-17,8.0,Online Banking,57.03,Clothing,2022-09,0.0,3
+31.0,F,Single,Medium,2022-06-09,Complaint,Unresolved,2023-02-07,35.0,Website,238.78,Electronics,2022-12,0.0,2
+35.0,F,Married,High,2022-02-21,Complaint,Unresolved,2023-06-22,47.0,Online Banking,259.91,Books,2022-08,0.0,3
+18.0,M,Single,Medium,2022-12-06,Complaint,Unresolved,2023-06-15,35.0,Website,470.61,Books,2022-03,0.0,2
+29.0,F,Married,Medium,2022-05-29,Complaint,Resolved,2023-10-26,23.0,Website,54.93,Books,2022-05,0.0,2
+46.0,M,Married,Medium,2022-10-19,Inquiry,Resolved,2023-05-10,13.0,Online Banking,287.15,Clothing,2022-10,0.0,2
+54.0,M,Divorced,Medium,2022-10-04,Feedback,Unresolved,2023-12-25,47.0,Online Banking,71.23,Clothing,2022-12,0.0,2
+43.0,F,Married,High,2022-07-27,Feedback,Unresolved,2023-08-31,17.0,Website,253.82,Furniture,2022-06,0.0,3
+50.0,F,Divorced,Low,2022-05-11,Complaint,Unresolved,2023-02-28,31.0,Website,226.68,Clothing,2022-04,0.0,1
+60.0,F,Single,Medium,2022-10-28,Inquiry,Resolved,2023-05-11,10.0,Online Banking,256.72,Clothing,2022-03,0.0,2
+32.0,M,Single,High,2022-08-12,Feedback,Unresolved,2023-08-22,36.0,Website,460.67,Clothing,2022-08,0.0,3
+40.0,F,Single,High,2022-03-25,Inquiry,Resolved,2023-07-24,29.0,Online Banking,12.77,Furniture,2022-06,0.0,3
+46.0,F,Single,High,2022-10-19,Complaint,Unresolved,2023-06-10,16.0,Mobile App,229.06,Clothing,2022-06,0.0,3
+38.0,M,Single,Low,2022-05-12,Complaint,Resolved,2023-07-18,33.0,Website,239.0,Books,2022-12,1.0,1
+36.0,F,Divorced,High,2022-10-25,Complaint,Resolved,2023-03-01,14.0,Mobile App,118.34,Books,2022-01,0.0,3
+22.0,M,Single,High,2022-05-03,Feedback,Resolved,2023-08-21,7.0,Online Banking,377.08,Groceries,2022-04,0.0,3
+40.0,F,Married,Low,2022-03-26,Feedback,Resolved,2023-12-26,33.0,Website,78.58,Clothing,2022-03,0.0,1
+53.0,M,Widowed,High,2022-06-02,Complaint,Unresolved,2023-08-24,3.0,Mobile App,361.23,Groceries,2022-03,1.0,3
+37.0,F,Divorced,High,2022-02-01,Complaint,Resolved,2023-10-23,26.0,Website,23.87,Books,2022-01,0.0,3
+25.0,M,Married,Low,2022-05-15,Inquiry,Resolved,2023-10-30,39.0,Website,463.19,Books,2022-12,0.0,1
+26.0,F,Widowed,Low,2022-05-25,Inquiry,Resolved,2023-08-21,5.0,Online Banking,444.26,Furniture,2022-11,1.0,1
+31.0,F,Widowed,Low,2022-06-20,Feedback,Resolved,2023-04-04,23.0,Online Banking,110.82,Furniture,2022-04,1.0,1
+23.0,M,Divorced,Medium,2022-05-03,Complaint,Unresolved,2023-02-18,33.0,Mobile App,145.39,Furniture,2022-01,0.0,2
+18.0,F,Married,Low,2022-12-26,Inquiry,Unresolved,2023-07-21,30.0,Mobile App,340.38,Books,2022-05,0.0,1
+26.0,F,Widowed,Medium,2022-08-18,Inquiry,Unresolved,2023-09-03,33.0,Mobile App,142.09,Furniture,2022-02,0.0,2
+33.0,M,Widowed,Medium,2022-09-25,Feedback,Resolved,2023-12-04,43.0,Website,494.59,Clothing,2022-03,0.0,2
+33.0,M,Divorced,Low,2022-12-21,Feedback,Resolved,2023-07-11,25.0,Online Banking,337.72,Groceries,2022-04,0.0,1
+29.0,F,Single,Medium,2022-08-05,Feedback,Resolved,2023-07-22,22.0,Online Banking,481.02,Clothing,2022-08,1.0,2
+22.0,M,Widowed,High,2022-05-05,Complaint,Unresolved,2023-05-07,1.0,Online Banking,97.01,Groceries,2022-07,1.0,3
+57.0,F,Divorced,High,2022-11-16,Feedback,Resolved,2023-05-10,10.0,Online Banking,143.57,Books,2022-02,0.0,3
+46.0,F,Divorced,Low,2022-02-18,Complaint,Unresolved,2023-10-09,23.0,Online Banking,232.38,Clothing,2022-02,0.0,1
+63.0,M,Married,Medium,2022-05-01,Feedback,Unresolved,2023-06-02,33.0,Website,233.29,Books,2022-01,0.0,2
+44.0,M,Divorced,High,2022-06-05,Complaint,Resolved,2023-03-19,39.0,Online Banking,42.55,Groceries,2022-02,0.0,3
+28.0,F,Divorced,Medium,2022-05-27,Inquiry,Resolved,2023-08-22,28.0,Website,458.03,Clothing,2022-03,0.0,2
+64.0,M,Single,Medium,2022-04-08,Feedback,Unresolved,2023-08-11,43.0,Mobile App,116.25,Groceries,2022-01,1.0,2
+67.0,F,Widowed,High,2022-08-03,Feedback,Resolved,2023-08-30,8.0,Online Banking,404.4,Electronics,2022-10,0.0,3
+45.0,M,Married,Low,2022-09-07,Complaint,Unresolved,2023-10-28,27.0,Mobile App,165.4,Clothing,2022-01,1.0,1
+69.0,F,Divorced,Medium,2022-10-07,Complaint,Resolved,2023-02-25,5.0,Online Banking,220.53,Furniture,2022-09,0.0,2
+53.0,F,Married,High,2022-02-22,Inquiry,Resolved,2023-12-29,15.0,Website,351.3,Furniture,2022-01,0.0,3
+59.0,F,Widowed,Low,2022-11-17,Inquiry,Resolved,2023-08-25,48.0,Mobile App,273.85,Clothing,2022-12,1.0,1
+36.0,F,Divorced,Medium,2022-04-27,Feedback,Unresolved,2023-10-14,22.0,Online Banking,477.4,Groceries,2022-06,0.0,2
+52.0,F,Divorced,Medium,2022-01-13,Complaint,Resolved,2023-01-20,35.0,Mobile App,222.83,Books,2022-11,0.0,2
+69.0,F,Married,Medium,2022-11-17,Complaint,Resolved,2023-08-09,30.0,Online Banking,105.33,Groceries,2022-08,0.0,2
+48.0,F,Single,Medium,2022-09-22,Inquiry,Unresolved,2023-09-20,48.0,Website,64.14,Books,2022-12,1.0,2
+61.0,M,Widowed,Low,2022-03-30,Inquiry,Resolved,2023-12-31,44.0,Website,309.33,Clothing,2022-04,0.0,1
+36.0,M,Widowed,Medium,2022-10-21,Complaint,Unresolved,2023-03-16,33.0,Website,368.18,Furniture,2022-07,0.0,2
+63.0,M,Widowed,High,2022-12-02,Inquiry,Unresolved,2023-09-04,30.0,Online Banking,131.06,Books,2022-08,0.0,3
+41.0,F,Divorced,High,2022-06-24,Inquiry,Resolved,2023-06-18,36.0,Online Banking,224.81,Groceries,2022-08,0.0,3
+19.0,M,Divorced,High,2022-01-24,Inquiry,Resolved,2023-04-23,16.0,Online Banking,164.36,Groceries,2022-07,0.0,3
+24.0,M,Divorced,Low,2022-07-27,Complaint,Resolved,2023-11-09,38.0,Website,125.27,Clothing,2022-10,0.0,1
+60.0,M,Married,High,2022-07-29,Feedback,Unresolved,2023-09-20,23.0,Online Banking,197.6,Furniture,2022-03,0.0,3
+66.0,M,Widowed,Medium,2022-08-29,Complaint,Unresolved,2023-02-07,37.0,Online Banking,9.19,Groceries,2022-07,1.0,2
+48.0,F,Widowed,Medium,2022-07-29,Feedback,Resolved,2023-01-06,37.0,Website,452.17,Groceries,2022-04,0.0,2
+34.0,F,Widowed,High,2022-05-24,Complaint,Unresolved,2023-12-16,28.0,Mobile App,144.41,Electronics,2022-12,0.0,3
+44.0,M,Single,Low,2022-04-27,Complaint,Unresolved,2023-10-04,14.0,Mobile App,391.62,Clothing,2022-11,1.0,1
+53.0,F,Divorced,Low,2022-09-22,Feedback,Resolved,2023-04-04,4.0,Mobile App,275.83,Clothing,2022-03,0.0,1
+67.0,F,Widowed,Medium,2022-08-04,Inquiry,Resolved,2023-09-24,39.0,Website,293.81,Clothing,2022-07,0.0,2
+60.0,F,Widowed,Medium,2022-11-02,Complaint,Unresolved,2023-11-03,33.0,Website,107.63,Groceries,2022-05,0.0,2
+27.0,F,Divorced,High,2022-06-16,Feedback,Resolved,2023-09-10,31.0,Website,280.78,Furniture,2022-07,0.0,3
+62.0,F,Divorced,Low,2022-04-14,Feedback,Unresolved,2023-08-14,13.0,Online Banking,48.02,Books,2022-12,0.0,1
+31.0,M,Widowed,High,2022-01-09,Inquiry,Resolved,2023-08-10,36.0,Mobile App,472.13,Electronics,2022-10,0.0,3
+24.0,F,Married,Medium,2022-07-11,Complaint,Resolved,2023-01-11,10.0,Mobile App,462.52,Clothing,2022-08,0.0,2
+56.0,M,Married,Medium,2022-09-14,Feedback,Resolved,2023-07-02,47.0,Online Banking,148.39,Clothing,2022-10,0.0,2
+57.0,F,Married,High,2022-01-27,Complaint,Resolved,2023-05-26,31.0,Website,224.36,Clothing,2022-01,0.0,3
+26.0,M,Married,Low,2022-09-25,Complaint,Resolved,2023-12-16,26.0,Mobile App,222.98,Groceries,2022-08,0.0,1
+31.0,M,Single,Medium,2022-08-07,Complaint,Unresolved,2023-12-03,14.0,Mobile App,463.89,Electronics,2022-03,1.0,2
+25.0,F,Married,Medium,2022-03-21,Complaint,Unresolved,2023-11-09,4.0,Mobile App,55.81,Groceries,2022-09,0.0,2
+34.0,M,Widowed,Low,2022-05-21,Complaint,Resolved,2023-03-18,33.0,Online Banking,276.11,Electronics,2022-06,0.0,1
+40.0,F,Widowed,Medium,2022-09-25,Feedback,Unresolved,2023-09-18,47.0,Website,177.45,Groceries,2022-07,0.0,2
+33.0,M,Widowed,Low,2022-10-28,Feedback,Unresolved,2023-09-20,13.0,Website,168.1,Electronics,2022-03,0.0,1
+43.0,M,Married,Low,2022-09-26,Inquiry,Unresolved,2023-04-20,48.0,Website,480.04,Clothing,2022-10,0.0,1
+26.0,F,Divorced,Medium,2022-09-09,Feedback,Unresolved,2023-02-20,41.0,Online Banking,330.59,Furniture,2022-04,0.0,2
+53.0,M,Widowed,High,2022-04-26,Inquiry,Unresolved,2023-02-19,34.0,Online Banking,137.12,Books,2022-12,0.0,3
+24.0,F,Married,Medium,2022-07-07,Feedback,Resolved,2023-10-28,43.0,Mobile App,271.07,Clothing,2022-11,1.0,2
+35.0,M,Single,Medium,2022-02-09,Inquiry,Resolved,2023-06-20,35.0,Mobile App,266.03,Furniture,2022-06,0.0,2
+25.0,F,Single,Medium,2022-03-27,Feedback,Unresolved,2023-06-08,28.0,Website,433.71,Clothing,2022-08,0.0,2
+38.0,M,Widowed,Medium,2022-04-27,Complaint,Unresolved,2023-12-06,31.0,Mobile App,115.5,Groceries,2022-01,0.0,2
+43.0,M,Divorced,High,2022-10-05,Complaint,Unresolved,2023-05-27,30.0,Online Banking,6.53,Books,2022-04,0.0,3
+20.0,F,Single,High,2022-10-07,Inquiry,Resolved,2023-10-13,32.0,Mobile App,32.66,Electronics,2022-04,0.0,3
+34.0,F,Married,High,2022-08-07,Feedback,Resolved,2023-12-01,13.0,Website,179.38,Books,2022-07,0.0,3
+68.0,M,Married,Low,2022-03-01,Complaint,Resolved,2023-09-08,41.0,Mobile App,116.1,Clothing,2022-04,0.0,1
+63.0,F,Single,High,2022-05-09,Complaint,Unresolved,2023-05-11,34.0,Mobile App,384.82,Furniture,2022-10,0.0,3
+41.0,M,Widowed,Low,2022-02-06,Feedback,Resolved,2023-09-08,8.0,Website,8.02,Furniture,2022-03,1.0,1
+42.0,M,Widowed,Medium,2022-06-16,Inquiry,Unresolved,2023-07-13,42.0,Mobile App,32.98,Books,2022-08,0.0,2
+22.0,M,Single,High,2022-11-25,Inquiry,Unresolved,2023-10-18,25.0,Online Banking,486.45,Books,2022-02,0.0,3
+54.0,F,Married,High,2022-03-17,Complaint,Resolved,2023-04-20,33.0,Online Banking,80.42,Clothing,2022-04,0.0,3
+62.0,F,Divorced,High,2022-08-11,Feedback,Resolved,2023-07-13,10.0,Online Banking,483.91,Groceries,2022-01,0.0,3
+67.0,F,Married,High,2022-12-14,Inquiry,Resolved,2023-12-23,40.0,Website,287.91,Groceries,2022-09,0.0,3
+41.0,M,Divorced,High,2022-07-01,Complaint,Resolved,2023-11-22,34.0,Mobile App,396.47,Groceries,2022-08,0.0,3
+48.0,M,Divorced,Medium,2022-09-06,Feedback,Unresolved,2023-06-14,44.0,Website,432.99,Electronics,2022-12,0.0,2
+43.0,M,Single,High,2022-07-08,Complaint,Resolved,2023-01-10,33.0,Website,78.22,Groceries,2022-08,0.0,3
+38.0,F,Widowed,Low,2022-10-23,Complaint,Unresolved,2023-03-13,5.0,Mobile App,187.74,Clothing,2022-09,0.0,1
+51.0,M,Divorced,Low,2022-05-04,Feedback,Unresolved,2023-02-24,45.0,Online Banking,407.1,Furniture,2022-06,0.0,1
+55.0,F,Married,High,2022-12-14,Inquiry,Resolved,2023-07-15,27.0,Online Banking,74.37,Furniture,2022-10,0.0,3
+41.0,F,Widowed,Low,2022-04-24,Feedback,Resolved,2023-04-09,8.0,Online Banking,400.48,Books,2022-07,1.0,1
+45.0,F,Widowed,High,2022-09-30,Feedback,Unresolved,2023-04-17,7.0,Online Banking,43.8,Books,2022-10,0.0,3
+47.0,F,Married,Medium,2022-03-04,Feedback,Resolved,2023-12-11,22.0,Website,359.19,Groceries,2022-11,0.0,2
+51.0,F,Single,Low,2022-07-18,Complaint,Resolved,2023-11-14,46.0,Website,182.01,Electronics,2022-12,0.0,1
+69.0,M,Widowed,High,2022-06-03,Feedback,Unresolved,2023-06-25,28.0,Online Banking,138.08,Groceries,2022-06,1.0,3
+69.0,M,Divorced,Low,2022-12-03,Feedback,Resolved,2023-12-17,9.0,Website,124.99,Books,2022-11,0.0,1
+40.0,M,Married,High,2022-04-09,Complaint,Resolved,2023-12-23,31.0,Online Banking,296.87,Furniture,2022-12,0.0,3
+25.0,M,Divorced,Low,2022-02-20,Inquiry,Unresolved,2023-10-24,4.0,Mobile App,386.49,Furniture,2022-05,1.0,1
+59.0,F,Married,Medium,2022-06-28,Complaint,Unresolved,2023-06-09,5.0,Website,430.25,Electronics,2022-07,1.0,2
+67.0,F,Married,Low,2022-10-27,Feedback,Unresolved,2023-01-10,13.0,Mobile App,123.78,Furniture,2022-02,0.0,1
+27.0,F,Widowed,Low,2022-05-06,Inquiry,Resolved,2023-12-30,6.0,Mobile App,229.9,Groceries,2022-08,0.0,1
+18.0,M,Married,Low,2022-11-19,Complaint,Unresolved,2023-01-17,23.0,Online Banking,323.59,Clothing,2022-11,0.0,1
+37.0,M,Widowed,Low,2022-10-22,Inquiry,Resolved,2023-03-15,47.0,Online Banking,161.84,Electronics,2022-08,0.0,1
+54.0,F,Married,High,2022-07-27,Feedback,Unresolved,2023-05-08,35.0,Mobile App,398.53,Furniture,2022-09,0.0,3
+35.0,M,Widowed,Medium,2022-12-24,Inquiry,Resolved,2023-01-30,34.0,Mobile App,155.12,Furniture,2022-04,0.0,2
+38.0,M,Widowed,Medium,2022-04-19,Inquiry,Unresolved,2023-11-20,38.0,Online Banking,134.58,Groceries,2022-01,0.0,2
+66.0,M,Single,Low,2022-11-23,Feedback,Resolved,2023-07-16,34.0,Mobile App,243.02,Electronics,2022-11,1.0,1
+21.0,F,Widowed,Low,2022-04-22,Inquiry,Unresolved,2023-09-03,11.0,Website,286.81,Clothing,2022-06,0.0,1
+60.0,M,Widowed,Medium,2022-05-21,Complaint,Unresolved,2023-06-09,6.0,Website,87.76,Books,2022-09,1.0,2
+19.0,F,Widowed,Medium,2022-10-11,Inquiry,Resolved,2023-07-19,32.0,Website,141.59,Electronics,2022-11,0.0,2
+38.0,M,Single,Medium,2022-07-27,Complaint,Unresolved,2023-01-25,35.0,Website,23.13,Books,2022-01,1.0,2
+54.0,F,Divorced,Medium,2022-06-18,Complaint,Unresolved,2023-03-23,34.0,Mobile App,475.22,Groceries,2022-05,0.0,2
+22.0,M,Divorced,Low,2022-04-17,Complaint,Resolved,2023-04-13,43.0,Mobile App,192.43,Clothing,2022-03,0.0,1
+34.0,M,Single,Medium,2022-07-30,Feedback,Resolved,2023-09-15,28.0,Mobile App,147.43,Electronics,2022-10,0.0,2
+66.0,F,Widowed,Low,2022-03-20,Complaint,Unresolved,2023-08-18,5.0,Online Banking,51.54,Groceries,2022-11,0.0,1
+65.0,F,Widowed,Low,2022-03-20,Complaint,Unresolved,2023-10-11,34.0,Mobile App,370.31,Clothing,2022-12,0.0,1
+28.0,F,Married,Medium,2022-08-07,Feedback,Unresolved,2023-06-14,33.0,Mobile App,271.57,Groceries,2022-11,1.0,2
+63.0,M,Divorced,High,2022-04-24,Feedback,Unresolved,2023-11-23,12.0,Online Banking,453.32,Groceries,2022-02,0.0,3
+58.0,F,Widowed,Low,2022-07-29,Feedback,Unresolved,2023-02-28,40.0,Online Banking,13.36,Clothing,2022-09,0.0,1
+48.0,M,Widowed,Medium,2022-01-14,Feedback,Unresolved,2023-11-30,44.0,Website,492.35,Groceries,2022-06,1.0,2
+45.0,F,Divorced,Low,2022-01-24,Feedback,Unresolved,2023-01-06,38.0,Online Banking,132.38,Clothing,2022-03,0.0,1
+61.0,M,Widowed,High,2022-07-23,Inquiry,Unresolved,2023-08-29,44.0,Online Banking,413.93,Electronics,2022-02,0.0,3
+49.0,M,Single,Medium,2022-04-18,Feedback,Resolved,2023-10-08,12.0,Mobile App,119.17,Furniture,2022-11,0.0,2
+38.0,M,Widowed,Low,2022-07-01,Inquiry,Unresolved,2023-01-07,37.0,Online Banking,481.44,Groceries,2022-10,0.0,1
+24.0,F,Widowed,High,2022-02-02,Inquiry,Unresolved,2023-12-29,1.0,Website,455.56,Electronics,2022-11,0.0,3
+27.0,M,Divorced,High,2022-03-19,Feedback,Unresolved,2023-08-30,40.0,Mobile App,427.48,Groceries,2022-12,0.0,3
+45.0,F,Single,Low,2022-06-26,Complaint,Resolved,2023-06-28,5.0,Website,436.92,Clothing,2022-10,1.0,1
+65.0,M,Married,Medium,2022-01-19,Inquiry,Unresolved,2023-11-30,2.0,Mobile App,469.32,Furniture,2022-07,0.0,2
+53.0,M,Divorced,Medium,2022-08-08,Inquiry,Unresolved,2023-11-22,46.0,Online Banking,230.4,Electronics,2022-01,0.0,2
+37.0,M,Married,Low,2022-06-15,Complaint,Resolved,2023-04-15,25.0,Online Banking,88.35,Books,2022-05,0.0,1
+30.0,M,Married,High,2022-06-29,Complaint,Resolved,2023-09-20,38.0,Mobile App,149.95,Electronics,2022-02,0.0,3
+36.0,F,Single,High,2022-10-17,Inquiry,Resolved,2023-12-07,25.0,Website,306.25,Furniture,2022-03,0.0,3
+67.0,M,Married,High,2022-09-15,Feedback,Unresolved,2023-11-04,48.0,Mobile App,244.38,Furniture,2022-03,0.0,3
+28.0,M,Single,High,2022-06-21,Feedback,Resolved,2023-06-23,22.0,Mobile App,303.76,Clothing,2022-06,0.0,3
+52.0,F,Widowed,Low,2022-01-10,Feedback,Unresolved,2023-08-10,1.0,Online Banking,68.4,Books,2022-12,1.0,1
+51.0,M,Single,High,2022-04-21,Inquiry,Resolved,2023-10-15,25.0,Online Banking,128.84,Electronics,2022-12,1.0,3
+61.0,F,Divorced,Low,2022-03-14,Feedback,Resolved,2023-10-21,33.0,Online Banking,407.66,Clothing,2022-12,0.0,1
+21.0,F,Married,Medium,2022-01-30,Feedback,Resolved,2023-08-08,22.0,Website,125.87,Electronics,2022-10,1.0,2
+30.0,M,Single,Medium,2022-11-07,Feedback,Unresolved,2023-07-04,31.0,Mobile App,127.1,Electronics,2022-02,1.0,2
+54.0,M,Divorced,High,2022-11-14,Inquiry,Resolved,2023-02-12,19.0,Online Banking,483.57,Groceries,2022-01,1.0,3
+19.0,F,Single,High,2022-02-12,Complaint,Resolved,2023-08-02,48.0,Mobile App,468.59,Electronics,2022-03,0.0,3
+67.0,F,Married,High,2022-08-03,Feedback,Unresolved,2023-06-18,18.0,Online Banking,124.52,Furniture,2022-04,0.0,3
+18.0,F,Married,Medium,2022-11-08,Inquiry,Resolved,2023-07-23,1.0,Mobile App,397.53,Electronics,2022-05,0.0,2
+57.0,F,Divorced,Low,2022-09-27,Inquiry,Unresolved,2023-01-06,19.0,Online Banking,403.16,Clothing,2022-06,0.0,1
+42.0,F,Divorced,Low,2022-09-07,Feedback,Resolved,2023-12-28,14.0,Mobile App,289.24,Furniture,2022-01,1.0,1
+54.0,F,Divorced,Low,2022-02-20,Feedback,Unresolved,2023-01-11,11.0,Online Banking,121.88,Clothing,2022-11,0.0,1
+53.0,F,Divorced,High,2022-12-28,Inquiry,Resolved,2023-09-25,8.0,Mobile App,444.57,Furniture,2022-11,1.0,3
+23.0,F,Divorced,Low,2022-11-07,Complaint,Resolved,2023-06-09,18.0,Mobile App,281.05,Groceries,2022-08,0.0,1
+24.0,M,Married,High,2022-04-21,Inquiry,Unresolved,2023-07-16,9.0,Mobile App,366.4,Groceries,2022-08,0.0,3
+21.0,F,Widowed,Medium,2022-01-27,Feedback,Resolved,2023-02-09,43.0,Website,74.68,Furniture,2022-05,1.0,2
+52.0,M,Divorced,Low,2022-04-07,Complaint,Unresolved,2023-09-15,28.0,Website,242.17,Clothing,2022-09,0.0,1
+58.0,M,Widowed,High,2022-05-28,Complaint,Unresolved,2023-08-22,11.0,Mobile App,43.61,Furniture,2022-12,0.0,3
+51.0,F,Divorced,Low,2022-01-07,Complaint,Resolved,2023-10-30,49.0,Online Banking,131.3,Furniture,2022-01,0.0,1
+46.0,F,Divorced,Medium,2022-02-02,Feedback,Unresolved,2023-12-07,41.0,Website,244.22,Clothing,2022-02,0.0,2
+22.0,M,Divorced,Low,2022-04-03,Complaint,Unresolved,2023-02-14,30.0,Online Banking,499.56,Groceries,2022-11,0.0,1
+44.0,M,Married,Low,2022-06-06,Feedback,Unresolved,2023-12-28,44.0,Online Banking,213.51,Clothing,2022-09,0.0,1
+50.0,F,Widowed,Medium,2022-05-14,Complaint,Unresolved,2023-05-16,27.0,Online Banking,9.93,Furniture,2022-02,0.0,2
+63.0,F,Married,High,2022-03-19,Complaint,Resolved,2023-05-18,26.0,Online Banking,267.23,Books,2022-10,0.0,3
+69.0,F,Single,High,2022-01-26,Inquiry,Unresolved,2023-12-06,49.0,Mobile App,101.29,Groceries,2022-04,1.0,3
+27.0,F,Divorced,High,2022-05-18,Complaint,Unresolved,2023-11-09,12.0,Online Banking,469.37,Clothing,2022-11,1.0,3
+23.0,M,Divorced,Low,2022-09-18,Complaint,Unresolved,2023-10-22,38.0,Website,481.43,Furniture,2022-10,0.0,1
+51.0,M,Widowed,Low,2022-11-26,Inquiry,Resolved,2023-10-29,27.0,Mobile App,365.58,Books,2022-10,0.0,1
+25.0,M,Married,High,2022-08-20,Inquiry,Unresolved,2023-08-16,37.0,Mobile App,128.73,Clothing,2022-06,0.0,3
+48.0,M,Married,High,2022-10-24,Complaint,Unresolved,2023-06-26,17.0,Mobile App,284.74,Furniture,2022-01,0.0,3
+26.0,M,Married,Low,2022-01-06,Complaint,Resolved,2023-11-10,46.0,Mobile App,312.51,Electronics,2022-01,0.0,1
+38.0,M,Divorced,High,2022-04-30,Feedback,Unresolved,2023-05-27,9.0,Online Banking,15.53,Groceries,2022-12,1.0,3
+25.0,M,Widowed,High,2022-04-23,Inquiry,Resolved,2023-06-13,6.0,Online Banking,183.84,Books,2022-03,0.0,3
+21.0,F,Single,Low,2022-07-10,Complaint,Unresolved,2023-09-22,13.0,Mobile App,129.28,Clothing,2022-10,0.0,1
+39.0,F,Single,Medium,2022-06-01,Complaint,Resolved,2023-01-17,6.0,Online Banking,348.8,Books,2022-06,0.0,2
+45.0,F,Married,Low,2022-08-28,Inquiry,Resolved,2023-09-22,38.0,Mobile App,301.71,Clothing,2022-07,0.0,1
+62.0,F,Widowed,High,2022-06-05,Complaint,Resolved,2023-07-07,4.0,Mobile App,356.25,Electronics,2022-11,0.0,3
+21.0,M,Married,High,2022-05-18,Complaint,Unresolved,2023-08-25,16.0,Online Banking,65.04,Books,2022-10,1.0,3
+56.0,M,Married,Medium,2022-01-31,Feedback,Resolved,2023-02-21,36.0,Website,262.74,Furniture,2022-10,0.0,2
+38.0,F,Married,Medium,2022-09-11,Feedback,Unresolved,2023-10-08,43.0,Website,350.44,Books,2022-01,1.0,2
+25.0,M,Single,Low,2022-09-03,Feedback,Resolved,2023-02-10,14.0,Online Banking,223.78,Clothing,2022-12,0.0,1
+37.0,M,Single,Medium,2022-08-09,Feedback,Unresolved,2023-01-22,29.0,Website,188.01,Furniture,2022-01,0.0,2
+49.0,M,Married,High,2022-11-24,Inquiry,Unresolved,2023-11-29,24.0,Website,338.38,Books,2022-12,0.0,3
+18.0,M,Widowed,High,2022-03-21,Feedback,Resolved,2023-09-02,39.0,Mobile App,213.16,Electronics,2022-07,0.0,3
+23.0,F,Single,High,2022-12-12,Feedback,Resolved,2023-12-30,39.0,Online Banking,470.73,Books,2022-07,0.0,3
+45.0,F,Married,High,2022-01-13,Feedback,Unresolved,2023-01-03,45.0,Mobile App,101.31,Clothing,2022-10,0.0,3
+61.0,F,Single,Medium,2022-09-11,Complaint,Unresolved,2023-02-05,25.0,Website,27.17,Electronics,2022-01,0.0,2
+48.0,F,Divorced,High,2022-01-21,Complaint,Unresolved,2023-11-24,46.0,Website,441.91,Furniture,2022-01,0.0,3
+27.0,M,Divorced,High,2022-08-01,Feedback,Resolved,2023-09-25,46.0,Mobile App,479.5,Furniture,2022-01,0.0,3
+37.0,F,Single,High,2022-01-16,Feedback,Unresolved,2023-11-09,3.0,Website,100.23,Books,2022-10,0.0,3
+25.0,M,Married,Low,2022-09-19,Complaint,Unresolved,2023-02-09,42.0,Online Banking,393.41,Furniture,2022-11,0.0,1
+39.0,F,Single,Low,2022-11-12,Inquiry,Unresolved,2023-12-02,27.0,Online Banking,147.57,Clothing,2022-12,0.0,1
+55.0,M,Widowed,High,2022-07-20,Feedback,Unresolved,2023-10-24,12.0,Online Banking,288.3,Clothing,2022-08,0.0,3
+46.0,F,Married,Medium,2022-02-07,Inquiry,Resolved,2023-08-15,43.0,Website,42.8,Books,2022-09,0.0,2
+26.0,M,Married,Medium,2022-12-19,Feedback,Unresolved,2023-12-20,2.0,Mobile App,146.51,Groceries,2022-01,1.0,2
+61.0,M,Married,Low,2022-08-02,Inquiry,Resolved,2023-10-22,38.0,Online Banking,476.62,Electronics,2022-03,0.0,1
+64.0,M,Married,Low,2022-09-17,Feedback,Unresolved,2023-05-13,26.0,Online Banking,288.43,Electronics,2022-11,1.0,1
+18.0,M,Widowed,Medium,2022-07-10,Feedback,Unresolved,2023-06-12,29.0,Mobile App,349.64,Books,2022-05,0.0,2
+58.0,M,Single,Low,2022-01-01,Complaint,Resolved,2023-06-06,45.0,Online Banking,37.93,Furniture,2022-05,0.0,1
+69.0,M,Single,Low,2022-09-02,Complaint,Unresolved,2023-04-22,30.0,Website,150.08,Books,2022-08,1.0,1
+56.0,M,Divorced,High,2022-02-06,Complaint,Unresolved,2023-06-15,38.0,Online Banking,275.8,Electronics,2022-03,0.0,3
+43.0,M,Married,Medium,2022-06-04,Complaint,Unresolved,2023-11-27,41.0,Online Banking,60.98,Clothing,2022-08,0.0,2
+28.0,M,Divorced,High,2022-08-12,Inquiry,Resolved,2023-08-16,32.0,Online Banking,128.83,Clothing,2022-09,0.0,3
+69.0,F,Widowed,Low,2022-09-07,Complaint,Resolved,2023-11-22,38.0,Online Banking,76.68,Books,2022-05,0.0,1
+52.0,F,Single,Low,2022-09-04,Complaint,Resolved,2023-08-04,21.0,Mobile App,364.59,Books,2022-02,0.0,1
+41.0,F,Single,Low,2022-08-19,Complaint,Resolved,2023-04-25,8.0,Website,234.95,Electronics,2022-08,0.0,1
+50.0,F,Married,Low,2022-12-22,Complaint,Unresolved,2023-01-26,6.0,Website,157.45,Books,2022-02,0.0,1
+37.0,F,Single,Medium,2022-12-04,Inquiry,Resolved,2023-01-23,4.0,Website,185.09,Books,2022-12,0.0,2
+44.0,M,Widowed,Medium,2022-06-30,Feedback,Unresolved,2023-04-01,17.0,Mobile App,136.24,Electronics,2022-07,1.0,2
+32.0,F,Widowed,Medium,2022-01-03,Complaint,Unresolved,2023-07-10,21.0,Mobile App,349.28,Furniture,2022-09,0.0,2
+50.0,F,Married,Medium,2022-03-30,Feedback,Resolved,2023-12-21,4.0,Website,236.46,Electronics,2022-12,1.0,2
+69.0,M,Divorced,High,2022-11-01,Feedback,Resolved,2023-04-25,35.0,Website,212.02,Clothing,2022-04,1.0,3
+24.0,F,Married,High,2022-12-23,Feedback,Resolved,2023-04-23,30.0,Mobile App,405.37,Electronics,2022-12,0.0,3
+51.0,F,Widowed,High,2022-05-13,Feedback,Unresolved,2023-05-23,27.0,Online Banking,158.16,Electronics,2022-09,1.0,3
+62.0,M,Single,Low,2022-01-19,Complaint,Unresolved,2023-12-01,12.0,Website,310.94,Clothing,2022-06,0.0,1
+68.0,F,Single,Medium,2022-04-21,Feedback,Resolved,2023-03-25,48.0,Mobile App,333.37,Furniture,2022-02,0.0,2
+63.0,F,Single,Medium,2022-10-29,Inquiry,Resolved,2023-10-18,20.0,Online Banking,346.98,Books,2022-09,0.0,2
+59.0,M,Widowed,Medium,2022-06-04,Inquiry,Unresolved,2023-02-15,40.0,Online Banking,70.57,Clothing,2022-01,0.0,2
+22.0,M,Divorced,High,2022-07-11,Feedback,Resolved,2023-11-07,44.0,Online Banking,312.99,Clothing,2022-02,0.0,3
+47.0,M,Married,Low,2022-10-21,Complaint,Resolved,2023-04-08,41.0,Online Banking,275.22,Groceries,2022-05,0.0,1
+45.0,M,Divorced,Low,2022-08-24,Complaint,Resolved,2023-11-14,33.0,Online Banking,215.99,Groceries,2022-10,1.0,1
+35.0,F,Single,Low,2022-10-30,Feedback,Unresolved,2023-04-01,10.0,Website,255.14,Electronics,2022-11,0.0,1
+53.0,F,Married,High,2022-03-14,Feedback,Unresolved,2023-11-21,5.0,Mobile App,380.8,Groceries,2022-07,1.0,3
+20.0,F,Widowed,Medium,2022-09-30,Feedback,Resolved,2023-04-20,11.0,Mobile App,157.43,Books,2022-06,1.0,2
+38.0,M,Widowed,High,2022-08-06,Complaint,Unresolved,2023-10-14,21.0,Mobile App,353.31,Clothing,2022-11,0.0,3
+63.0,F,Divorced,Medium,2022-09-14,Inquiry,Resolved,2023-04-23,20.0,Online Banking,61.45,Furniture,2022-03,0.0,2
+33.0,M,Married,Low,2022-08-30,Feedback,Unresolved,2023-02-03,44.0,Mobile App,58.03,Books,2022-11,0.0,1
+54.0,F,Single,Medium,2022-06-05,Feedback,Unresolved,2023-01-04,9.0,Online Banking,364.93,Books,2022-06,0.0,2
+59.0,M,Divorced,Low,2022-07-21,Feedback,Unresolved,2023-06-09,30.0,Mobile App,142.75,Electronics,2022-05,0.0,1
+22.0,F,Widowed,Low,2022-09-21,Complaint,Resolved,2023-04-23,48.0,Online Banking,453.15,Electronics,2022-09,0.0,1
+67.0,F,Married,Low,2022-12-02,Complaint,Resolved,2023-06-07,4.0,Mobile App,54.9,Books,2022-12,0.0,1
+68.0,M,Married,Medium,2022-06-18,Feedback,Unresolved,2023-10-17,9.0,Website,95.03,Groceries,2022-12,0.0,2
+31.0,M,Widowed,High,2022-07-24,Complaint,Unresolved,2023-07-09,40.0,Online Banking,27.84,Furniture,2022-08,0.0,3
+48.0,M,Single,Low,2022-06-18,Complaint,Unresolved,2023-12-16,3.0,Website,109.55,Furniture,2022-11,0.0,1
+63.0,F,Single,Medium,2022-03-23,Feedback,Resolved,2023-11-22,38.0,Online Banking,492.28,Books,2022-10,0.0,2
+41.0,F,Widowed,Low,2022-04-23,Feedback,Resolved,2023-09-11,25.0,Website,325.01,Clothing,2022-02,0.0,1
+52.0,M,Widowed,Medium,2022-07-13,Inquiry,Resolved,2023-05-13,37.0,Mobile App,118.33,Groceries,2022-02,1.0,2
+53.0,M,Single,High,2022-03-12,Feedback,Unresolved,2023-06-16,30.0,Mobile App,491.19,Groceries,2022-06,0.0,3
+27.0,M,Divorced,Low,2022-12-18,Inquiry,Resolved,2023-05-06,31.0,Website,433.38,Electronics,2022-03,0.0,1
+44.0,M,Divorced,Low,2022-06-11,Inquiry,Unresolved,2023-01-13,17.0,Mobile App,467.17,Books,2022-12,1.0,1
+44.0,F,Married,Low,2022-02-05,Complaint,Resolved,2023-10-03,10.0,Website,318.36,Clothing,2022-05,0.0,1
+40.0,M,Married,High,2022-07-07,Inquiry,Resolved,2023-01-16,8.0,Mobile App,49.64,Furniture,2022-08,1.0,3
+30.0,M,Divorced,Medium,2022-11-19,Complaint,Unresolved,2023-01-14,2.0,Mobile App,341.2,Groceries,2022-07,0.0,2
+33.0,F,Married,Low,2022-08-27,Complaint,Unresolved,2023-12-21,32.0,Website,278.53,Groceries,2022-06,0.0,1
+52.0,F,Divorced,Low,2022-08-09,Feedback,Resolved,2023-12-07,11.0,Mobile App,6.3,Electronics,2022-05,0.0,1
+44.0,M,Married,High,2022-09-15,Feedback,Resolved,2023-10-11,10.0,Online Banking,439.75,Clothing,2022-09,0.0,3
+69.0,F,Divorced,Medium,2022-12-25,Inquiry,Unresolved,2023-12-17,41.0,Online Banking,442.76,Electronics,2022-12,0.0,2
+56.0,M,Married,High,2022-07-15,Feedback,Resolved,2023-08-26,32.0,Online Banking,375.92,Groceries,2022-06,0.0,3
+64.0,F,Married,High,2022-10-26,Feedback,Resolved,2023-03-25,24.0,Mobile App,119.9,Groceries,2022-09,1.0,3
+34.0,F,Divorced,Low,2022-07-21,Feedback,Unresolved,2023-08-11,7.0,Online Banking,116.2,Furniture,2022-06,0.0,1
+65.0,M,Single,Medium,2022-05-27,Complaint,Resolved,2023-08-14,29.0,Online Banking,401.66,Books,2022-03,1.0,2
+58.0,F,Divorced,Low,2022-11-08,Feedback,Resolved,2023-01-22,2.0,Online Banking,410.34,Electronics,2022-11,1.0,1
+18.0,M,Divorced,Low,2022-05-05,Inquiry,Unresolved,2023-11-20,16.0,Mobile App,318.29,Books,2022-08,1.0,1
+28.0,M,Widowed,High,2022-04-15,Complaint,Unresolved,2023-04-27,31.0,Online Banking,226.06,Clothing,2022-05,1.0,3
+29.0,F,Single,High,2022-04-08,Feedback,Resolved,2023-02-25,12.0,Online Banking,317.32,Clothing,2022-10,0.0,3
+31.0,F,Married,Low,2022-07-26,Feedback,Unresolved,2023-08-15,32.0,Online Banking,494.01,Electronics,2022-07,0.0,1
+25.0,M,Single,High,2022-09-22,Complaint,Resolved,2023-10-01,47.0,Online Banking,374.94,Electronics,2022-08,0.0,3
+48.0,F,Single,High,2022-11-16,Complaint,Unresolved,2023-04-12,41.0,Online Banking,369.95,Groceries,2022-05,0.0,3
+24.0,F,Single,Medium,2022-09-05,Complaint,Unresolved,2023-11-19,18.0,Website,27.36,Furniture,2022-09,0.0,2
+63.0,F,Widowed,Low,2022-08-13,Complaint,Resolved,2023-08-03,3.0,Mobile App,456.04,Clothing,2022-02,1.0,1
+48.0,M,Widowed,Low,2022-07-31,Complaint,Unresolved,2023-02-27,16.0,Website,447.39,Clothing,2022-09,0.0,1
+33.0,F,Married,Medium,2022-06-27,Complaint,Unresolved,2023-11-16,49.0,Website,215.41,Clothing,2022-09,1.0,2
+59.0,F,Divorced,High,2022-08-13,Complaint,Resolved,2023-01-16,42.0,Website,10.61,Clothing,2022-07,0.0,3
+56.0,M,Single,Medium,2022-03-13,Feedback,Resolved,2023-01-07,18.0,Online Banking,391.77,Groceries,2022-07,0.0,2
+61.0,F,Married,Medium,2022-11-15,Feedback,Resolved,2023-08-17,44.0,Website,208.23,Books,2022-08,1.0,2
+36.0,M,Married,Medium,2022-08-12,Feedback,Unresolved,2023-07-23,15.0,Website,403.3,Groceries,2022-06,0.0,2
+25.0,M,Widowed,High,2022-02-05,Feedback,Resolved,2023-11-28,41.0,Online Banking,162.91,Groceries,2022-11,0.0,3
+46.0,M,Divorced,Medium,2022-08-19,Feedback,Unresolved,2023-11-04,37.0,Online Banking,318.24,Furniture,2022-10,0.0,2
+19.0,M,Divorced,Low,2022-02-19,Feedback,Resolved,2023-04-21,23.0,Mobile App,290.28,Groceries,2022-07,0.0,1
+59.0,F,Widowed,High,2022-05-14,Inquiry,Resolved,2023-12-10,26.0,Online Banking,86.67,Groceries,2022-02,0.0,3
+20.0,M,Single,Medium,2022-11-25,Feedback,Unresolved,2023-09-27,7.0,Online Banking,478.44,Furniture,2022-08,0.0,2
+68.0,M,Widowed,Medium,2022-02-27,Complaint,Unresolved,2023-04-26,48.0,Online Banking,488.18,Clothing,2022-11,0.0,2
+46.0,M,Married,Medium,2022-07-28,Feedback,Resolved,2023-04-30,21.0,Website,166.5,Groceries,2022-06,0.0,2
+32.0,F,Widowed,Medium,2022-06-27,Inquiry,Unresolved,2023-03-30,29.0,Website,89.47,Furniture,2022-12,0.0,2
+55.0,M,Divorced,Medium,2022-11-07,Inquiry,Unresolved,2023-11-24,45.0,Website,58.39,Electronics,2022-12,0.0,2
+45.0,M,Single,Medium,2022-11-19,Inquiry,Unresolved,2023-06-15,7.0,Online Banking,482.75,Clothing,2022-05,1.0,2
+54.0,M,Married,Low,2022-07-11,Feedback,Resolved,2023-08-15,6.0,Online Banking,147.45,Books,2022-03,0.0,1
+49.0,M,Married,High,2022-11-26,Inquiry,Resolved,2023-09-17,27.0,Online Banking,127.65,Groceries,2022-03,1.0,3
+47.0,M,Divorced,Low,2022-09-10,Feedback,Unresolved,2023-09-11,43.0,Mobile App,115.9,Books,2022-11,1.0,1
+68.0,M,Widowed,Medium,2022-06-13,Feedback,Resolved,2023-06-28,46.0,Website,391.42,Electronics,2022-04,0.0,2
+64.0,M,Married,Medium,2022-03-10,Inquiry,Unresolved,2023-02-23,17.0,Website,160.81,Electronics,2022-11,1.0,2
+47.0,M,Widowed,Medium,2022-11-13,Complaint,Resolved,2023-03-11,24.0,Mobile App,182.65,Books,2022-03,0.0,2
+68.0,M,Married,Low,2022-09-07,Inquiry,Unresolved,2023-08-11,28.0,Website,389.5,Electronics,2022-08,0.0,1
+51.0,M,Divorced,Medium,2022-02-07,Inquiry,Unresolved,2023-07-01,26.0,Website,450.67,Furniture,2022-10,0.0,2
+30.0,M,Married,Low,2022-07-22,Feedback,Unresolved,2023-08-30,38.0,Online Banking,344.06,Books,2022-05,1.0,1
+50.0,M,Married,High,2022-03-27,Feedback,Unresolved,2023-05-17,26.0,Online Banking,425.15,Groceries,2022-09,0.0,3
+59.0,F,Single,Low,2022-11-16,Inquiry,Unresolved,2023-05-18,40.0,Website,401.03,Electronics,2022-05,0.0,1
+34.0,F,Married,Low,2022-06-10,Complaint,Unresolved,2023-03-30,1.0,Mobile App,297.13,Clothing,2022-09,0.0,1
+20.0,M,Divorced,High,2022-03-17,Feedback,Unresolved,2023-02-19,19.0,Mobile App,236.51,Electronics,2022-04,0.0,3
+26.0,F,Married,Medium,2022-07-26,Inquiry,Unresolved,2023-01-31,26.0,Mobile App,405.19,Books,2022-05,0.0,2
+69.0,F,Divorced,Low,2022-12-19,Inquiry,Resolved,2023-07-10,35.0,Mobile App,224.86,Clothing,2022-08,0.0,1
+28.0,F,Widowed,High,2022-07-07,Feedback,Resolved,2023-12-07,16.0,Online Banking,48.9,Electronics,2022-01,1.0,3
+66.0,M,Divorced,Low,2022-09-24,Inquiry,Unresolved,2023-06-25,13.0,Mobile App,11.23,Groceries,2022-08,1.0,1
+44.0,F,Widowed,Low,2022-08-30,Feedback,Unresolved,2023-09-25,10.0,Website,376.94,Groceries,2022-10,0.0,1
+45.0,F,Married,High,2022-07-14,Complaint,Resolved,2023-08-13,8.0,Mobile App,230.72,Electronics,2022-05,0.0,3
+19.0,M,Divorced,Low,2022-03-04,Inquiry,Unresolved,2023-10-12,27.0,Mobile App,309.14,Groceries,2022-04,0.0,1
+18.0,F,Single,High,2022-02-28,Complaint,Resolved,2023-09-01,26.0,Mobile App,248.79,Electronics,2022-09,0.0,3
+23.0,F,Divorced,Low,2022-10-18,Complaint,Unresolved,2023-04-12,3.0,Mobile App,24.17,Furniture,2022-09,0.0,1
+42.0,F,Widowed,Medium,2022-06-12,Feedback,Resolved,2023-08-24,45.0,Online Banking,109.98,Groceries,2022-04,0.0,2
+52.0,F,Widowed,High,2022-09-11,Feedback,Resolved,2023-06-15,36.0,Online Banking,333.98,Electronics,2022-01,0.0,3
+33.0,M,Single,Medium,2022-10-18,Feedback,Unresolved,2023-10-22,41.0,Online Banking,376.77,Groceries,2022-06,0.0,2
+21.0,F,Divorced,Low,2022-06-24,Feedback,Resolved,2023-10-19,8.0,Online Banking,75.54,Electronics,2022-08,0.0,1
+64.0,M,Married,Medium,2022-05-10,Complaint,Unresolved,2023-06-03,32.0,Website,93.12,Groceries,2022-12,0.0,2
+55.0,F,Divorced,High,2022-03-09,Feedback,Resolved,2023-11-06,19.0,Website,159.17,Groceries,2022-04,0.0,3
+61.0,F,Divorced,Low,2022-09-17,Inquiry,Unresolved,2023-04-02,12.0,Online Banking,369.06,Furniture,2022-02,0.0,1
+37.0,F,Divorced,High,2022-09-15,Complaint,Resolved,2023-02-28,45.0,Online Banking,478.02,Electronics,2022-03,0.0,3
+42.0,F,Single,Low,2022-03-18,Complaint,Unresolved,2023-04-01,45.0,Mobile App,213.92,Clothing,2022-06,0.0,1
+24.0,F,Single,Medium,2022-06-15,Feedback,Unresolved,2023-07-02,13.0,Mobile App,256.79,Clothing,2022-06,0.0,2
+38.0,M,Single,Medium,2022-12-04,Feedback,Resolved,2023-01-23,44.0,Online Banking,69.09,Electronics,2022-02,1.0,2
+24.0,M,Single,High,2022-03-14,Inquiry,Resolved,2023-06-07,48.0,Online Banking,372.66,Books,2022-05,0.0,3
+46.0,M,Single,High,2022-06-11,Inquiry,Unresolved,2023-11-16,45.0,Mobile App,228.16,Books,2022-12,0.0,3
+69.0,F,Married,Low,2022-12-16,Complaint,Unresolved,2023-07-05,7.0,Website,191.7,Furniture,2022-08,1.0,1
+24.0,M,Divorced,High,2022-09-01,Feedback,Resolved,2023-04-22,47.0,Online Banking,431.47,Electronics,2022-06,0.0,3
+20.0,F,Divorced,High,2022-02-07,Feedback,Unresolved,2023-08-31,47.0,Website,402.2,Furniture,2022-01,0.0,3
+46.0,M,Married,Medium,2022-05-13,Complaint,Unresolved,2023-12-24,16.0,Website,234.41,Electronics,2022-08,0.0,2
+46.0,M,Married,High,2022-08-16,Feedback,Resolved,2023-06-22,32.0,Mobile App,397.8,Books,2022-01,0.0,3
+56.0,M,Married,High,2022-04-24,Complaint,Resolved,2023-09-14,9.0,Mobile App,352.46,Clothing,2022-08,1.0,3
+55.0,F,Married,Low,2022-08-25,Feedback,Unresolved,2023-08-19,26.0,Online Banking,120.37,Clothing,2022-02,0.0,1
+23.0,M,Single,Medium,2022-02-23,Complaint,Unresolved,2023-07-24,48.0,Mobile App,498.24,Clothing,2022-08,0.0,2
+63.0,F,Divorced,Medium,2022-10-29,Complaint,Unresolved,2023-07-27,40.0,Website,461.47,Electronics,2022-05,1.0,2
+27.0,M,Married,Low,2022-12-30,Complaint,Unresolved,2023-07-29,47.0,Website,337.7,Books,2022-10,0.0,1
+54.0,F,Widowed,Medium,2022-03-08,Inquiry,Resolved,2023-11-24,20.0,Online Banking,280.48,Electronics,2022-07,0.0,2
+31.0,F,Married,Low,2022-12-15,Feedback,Unresolved,2023-10-05,6.0,Website,198.5,Electronics,2022-03,0.0,1
+39.0,F,Divorced,Low,2022-02-07,Complaint,Unresolved,2023-01-24,11.0,Mobile App,461.27,Electronics,2022-02,0.0,1
+49.0,F,Widowed,High,2022-12-20,Inquiry,Resolved,2023-12-22,29.0,Online Banking,356.74,Clothing,2022-07,0.0,3
+35.0,F,Married,High,2022-10-22,Complaint,Resolved,2023-01-11,7.0,Mobile App,207.97,Electronics,2022-03,1.0,3
+53.0,F,Single,Low,2022-06-25,Feedback,Resolved,2023-06-24,29.0,Website,493.64,Electronics,2022-02,0.0,1
+63.0,F,Single,High,2022-02-05,Feedback,Resolved,2023-10-01,43.0,Mobile App,46.89,Clothing,2022-04,0.0,3
+69.0,F,Widowed,High,2022-03-31,Feedback,Resolved,2023-01-12,4.0,Online Banking,445.89,Groceries,2022-08,0.0,3
+26.0,F,Single,Medium,2022-03-17,Complaint,Resolved,2023-02-09,24.0,Mobile App,88.04,Clothing,2022-09,1.0,2
+43.0,F,Widowed,Medium,2022-02-23,Feedback,Resolved,2023-02-10,3.0,Website,490.3,Clothing,2022-09,1.0,2
+39.0,M,Married,High,2022-03-20,Complaint,Unresolved,2023-07-11,12.0,Online Banking,142.43,Furniture,2022-06,0.0,3
+63.0,F,Divorced,Low,2022-07-21,Inquiry,Resolved,2023-07-03,35.0,Website,472.91,Clothing,2022-04,0.0,1
+55.0,M,Widowed,Low,2022-06-06,Inquiry,Resolved,2023-02-14,8.0,Mobile App,151.5,Groceries,2022-06,1.0,1
+40.0,M,Married,High,2022-08-12,Complaint,Unresolved,2023-12-18,38.0,Online Banking,426.75,Clothing,2022-12,0.0,3
+34.0,F,Widowed,High,2022-07-18,Complaint,Resolved,2023-01-18,41.0,Online Banking,485.11,Groceries,2022-09,0.0,3
+43.0,M,Divorced,Low,2022-10-09,Complaint,Resolved,2023-12-31,38.0,Mobile App,323.48,Electronics,2022-03,1.0,1
+64.0,F,Single,Medium,2022-07-20,Inquiry,Unresolved,2023-09-16,15.0,Mobile App,481.57,Electronics,2022-07,0.0,2
+55.0,F,Single,Medium,2022-02-27,Inquiry,Resolved,2023-11-03,5.0,Website,345.04,Books,2022-05,0.0,2
+19.0,M,Widowed,Low,2022-08-16,Feedback,Resolved,2023-05-16,40.0,Website,306.78,Groceries,2022-06,0.0,1
+23.0,F,Divorced,High,2022-06-14,Inquiry,Unresolved,2023-03-27,16.0,Online Banking,157.67,Clothing,2022-11,0.0,3
+24.0,M,Married,Medium,2022-02-20,Inquiry,Resolved,2023-01-02,46.0,Online Banking,186.63,Books,2022-09,0.0,2
+30.0,M,Married,Low,2022-01-21,Inquiry,Resolved,2023-09-29,28.0,Website,395.87,Clothing,2022-07,0.0,1
+44.0,M,Married,High,2022-01-16,Feedback,Resolved,2023-07-21,13.0,Mobile App,144.28,Books,2022-02,0.0,3
+28.0,M,Widowed,High,2022-12-03,Feedback,Unresolved,2023-04-29,41.0,Website,198.99,Books,2022-03,0.0,3
+32.0,F,Single,Medium,2022-12-01,Feedback,Resolved,2023-02-26,11.0,Website,419.85,Electronics,2022-10,0.0,2
+26.0,F,Widowed,High,2022-07-07,Complaint,Resolved,2023-11-30,37.0,Mobile App,410.66,Books,2022-10,0.0,3
+25.0,F,Widowed,Low,2022-04-19,Feedback,Resolved,2023-03-12,3.0,Website,339.16,Furniture,2022-08,0.0,1
+63.0,M,Widowed,Low,2022-01-24,Feedback,Unresolved,2023-09-08,8.0,Mobile App,75.7,Books,2022-07,0.0,1
+23.0,F,Married,Low,2022-10-19,Complaint,Unresolved,2023-06-02,38.0,Online Banking,484.18,Books,2022-03,0.0,1
+65.0,M,Divorced,Low,2022-03-03,Feedback,Unresolved,2023-01-11,47.0,Mobile App,459.0,Books,2022-12,1.0,1
+60.0,M,Widowed,High,2022-02-03,Feedback,Resolved,2023-05-03,34.0,Website,249.26,Furniture,2022-07,0.0,3
+21.0,M,Married,Low,2022-07-19,Complaint,Resolved,2023-07-12,38.0,Mobile App,34.12,Clothing,2022-12,0.0,1
+28.0,M,Widowed,Medium,2022-06-09,Feedback,Resolved,2023-12-16,42.0,Online Banking,405.03,Clothing,2022-11,0.0,2
+68.0,M,Widowed,High,2022-10-14,Feedback,Unresolved,2023-01-30,24.0,Website,267.25,Electronics,2022-06,0.0,3
+45.0,M,Married,High,2022-01-10,Feedback,Unresolved,2023-04-28,18.0,Website,418.07,Groceries,2022-09,0.0,3
+43.0,F,Divorced,High,2022-05-23,Inquiry,Unresolved,2023-04-03,25.0,Website,128.42,Furniture,2022-09,0.0,3
+21.0,F,Divorced,Low,2022-02-02,Feedback,Unresolved,2023-06-02,13.0,Website,186.82,Clothing,2022-01,0.0,1
+32.0,F,Single,High,2022-04-07,Inquiry,Unresolved,2023-10-24,39.0,Website,387.19,Clothing,2022-07,0.0,3
+36.0,M,Widowed,Low,2022-10-12,Complaint,Unresolved,2023-10-14,22.0,Mobile App,489.82,Clothing,2022-10,0.0,1
+23.0,M,Single,Low,2022-06-26,Feedback,Resolved,2023-08-29,30.0,Online Banking,203.23,Books,2022-11,0.0,1
+22.0,F,Married,High,2022-02-06,Feedback,Resolved,2023-08-13,30.0,Mobile App,346.68,Groceries,2022-11,0.0,3
+35.0,F,Widowed,High,2022-02-23,Feedback,Resolved,2023-05-05,37.0,Website,439.53,Groceries,2022-03,0.0,3
+23.0,F,Married,Low,2022-10-27,Feedback,Unresolved,2023-02-09,45.0,Mobile App,78.65,Clothing,2022-05,0.0,1
+48.0,M,Single,High,2022-05-07,Feedback,Unresolved,2023-12-20,43.0,Website,13.04,Groceries,2022-12,0.0,3
+42.0,F,Married,High,2022-03-20,Feedback,Resolved,2023-12-20,15.0,Online Banking,444.84,Books,2022-04,0.0,3
+21.0,F,Married,Low,2022-11-15,Feedback,Unresolved,2023-12-16,35.0,Mobile App,398.49,Furniture,2022-10,0.0,1
+23.0,M,Divorced,Low,2022-02-10,Inquiry,Unresolved,2023-01-15,6.0,Online Banking,174.35,Clothing,2022-08,1.0,1
+58.0,M,Widowed,High,2022-08-17,Inquiry,Unresolved,2023-09-04,11.0,Mobile App,19.9,Clothing,2022-10,0.0,3
+54.0,F,Widowed,Low,2022-06-24,Feedback,Resolved,2023-10-05,28.0,Website,290.43,Books,2022-02,0.0,1
+67.0,F,Widowed,Low,2022-01-17,Inquiry,Unresolved,2023-03-03,30.0,Website,129.94,Groceries,2022-04,0.0,1
+42.0,M,Married,Medium,2022-07-04,Feedback,Unresolved,2023-05-13,16.0,Mobile App,87.74,Electronics,2022-04,0.0,2
+51.0,M,Divorced,High,2022-12-07,Feedback,Resolved,2023-05-25,28.0,Mobile App,32.37,Electronics,2022-12,0.0,3
+36.0,M,Single,High,2022-06-14,Inquiry,Resolved,2023-10-07,25.0,Online Banking,60.04,Books,2022-04,0.0,3
+51.0,M,Widowed,High,2022-01-25,Inquiry,Unresolved,2023-05-27,48.0,Online Banking,334.2,Furniture,2022-12,0.0,3
+32.0,F,Married,High,2022-10-30,Complaint,Resolved,2023-06-22,30.0,Website,22.57,Electronics,2022-08,0.0,3
+67.0,F,Divorced,High,2022-10-09,Complaint,Unresolved,2023-03-30,45.0,Online Banking,177.93,Furniture,2022-04,1.0,3
+25.0,F,Divorced,Low,2022-07-23,Inquiry,Resolved,2023-07-28,14.0,Online Banking,64.75,Furniture,2022-03,0.0,1
+61.0,F,Widowed,High,2022-02-26,Feedback,Resolved,2023-06-09,27.0,Website,104.43,Groceries,2022-12,0.0,3
+64.0,F,Divorced,High,2022-01-18,Inquiry,Unresolved,2023-06-10,48.0,Website,336.59,Furniture,2022-07,0.0,3
+66.0,M,Divorced,Medium,2022-02-02,Inquiry,Unresolved,2023-12-18,30.0,Mobile App,395.38,Groceries,2022-01,0.0,2
+51.0,M,Married,Low,2022-03-22,Inquiry,Unresolved,2023-12-02,10.0,Online Banking,347.15,Electronics,2022-10,0.0,1
+35.0,F,Single,High,2022-03-12,Complaint,Resolved,2023-02-06,20.0,Mobile App,185.34,Groceries,2022-06,1.0,3
+47.0,M,Divorced,High,2022-12-11,Inquiry,Unresolved,2023-02-26,44.0,Online Banking,385.58,Groceries,2022-10,0.0,3
+30.0,F,Single,High,2022-07-02,Feedback,Resolved,2023-08-21,7.0,Website,246.37,Clothing,2022-07,0.0,3
+64.0,F,Divorced,High,2022-08-14,Feedback,Unresolved,2023-08-24,34.0,Website,485.08,Books,2022-03,0.0,3
+50.0,F,Divorced,Low,2022-08-05,Complaint,Unresolved,2023-12-07,27.0,Website,432.79,Furniture,2022-08,0.0,1
+52.0,F,Divorced,Medium,2022-03-28,Inquiry,Unresolved,2023-06-26,23.0,Online Banking,373.09,Books,2022-07,1.0,2
+69.0,M,Widowed,Medium,2022-09-05,Feedback,Resolved,2023-11-04,46.0,Website,243.07,Books,2022-08,0.0,2
+41.0,F,Widowed,High,2022-11-05,Complaint,Unresolved,2023-02-19,45.0,Website,73.02,Electronics,2022-07,0.0,3
+43.0,F,Widowed,Medium,2022-08-19,Complaint,Unresolved,2023-08-09,25.0,Mobile App,445.69,Clothing,2022-06,0.0,2
+64.0,F,Single,Medium,2022-07-03,Complaint,Resolved,2023-09-06,28.0,Mobile App,258.55,Electronics,2022-08,1.0,2
+68.0,M,Single,Medium,2022-06-11,Complaint,Resolved,2023-08-07,18.0,Online Banking,118.45,Books,2022-01,0.0,2
+61.0,F,Widowed,Medium,2022-03-08,Feedback,Resolved,2023-03-12,13.0,Website,241.68,Books,2022-07,0.0,2
+59.0,M,Single,Medium,2022-02-17,Complaint,Resolved,2023-01-30,13.0,Online Banking,348.91,Electronics,2022-08,0.0,2
+64.0,M,Married,Low,2022-10-01,Inquiry,Resolved,2023-01-07,45.0,Online Banking,35.38,Clothing,2022-05,0.0,1
+18.0,F,Single,Low,2022-03-09,Complaint,Unresolved,2023-11-06,34.0,Mobile App,388.8,Groceries,2022-06,1.0,1
+30.0,M,Married,Low,2022-01-26,Feedback,Unresolved,2023-04-28,14.0,Mobile App,29.66,Books,2022-06,1.0,1
+27.0,M,Widowed,Medium,2022-02-16,Inquiry,Resolved,2023-02-15,28.0,Mobile App,38.65,Groceries,2022-10,0.0,2
+36.0,F,Married,Low,2022-09-03,Complaint,Unresolved,2023-12-07,13.0,Online Banking,430.59,Electronics,2022-09,0.0,1
+22.0,F,Widowed,Medium,2022-07-29,Feedback,Unresolved,2023-07-09,34.0,Website,177.59,Clothing,2022-02,0.0,2
+25.0,M,Widowed,Medium,2022-05-26,Feedback,Resolved,2023-08-10,5.0,Mobile App,433.5,Clothing,2022-10,0.0,2
+21.0,F,Widowed,Low,2022-12-28,Complaint,Resolved,2023-08-22,40.0,Mobile App,108.73,Books,2022-03,0.0,1
+66.0,M,Single,High,2022-12-29,Feedback,Resolved,2023-05-26,10.0,Mobile App,213.27,Electronics,2022-01,0.0,3
+30.0,F,Divorced,Medium,2022-07-23,Feedback,Resolved,2023-01-30,36.0,Website,44.73,Books,2022-05,0.0,2
+55.0,F,Divorced,Medium,2022-08-25,Inquiry,Unresolved,2023-04-13,6.0,Online Banking,49.77,Furniture,2022-02,0.0,2
+63.0,F,Married,Low,2022-11-03,Complaint,Resolved,2023-04-30,21.0,Online Banking,91.31,Groceries,2022-01,0.0,1
+66.0,M,Divorced,Medium,2022-11-26,Feedback,Resolved,2023-07-07,35.0,Website,154.69,Groceries,2022-06,0.0,2
+63.0,M,Widowed,Medium,2022-12-14,Inquiry,Unresolved,2023-11-24,16.0,Online Banking,40.42,Books,2022-01,0.0,2
+36.0,M,Divorced,Medium,2022-07-01,Feedback,Unresolved,2023-08-01,20.0,Website,496.79,Groceries,2022-11,1.0,2
+69.0,F,Married,Low,2022-05-19,Complaint,Resolved,2023-08-06,31.0,Mobile App,127.19,Books,2022-01,0.0,1
+67.0,M,Widowed,High,2022-03-13,Inquiry,Unresolved,2023-09-22,5.0,Website,434.22,Clothing,2022-04,1.0,3
+25.0,F,Single,High,2022-06-17,Feedback,Resolved,2023-07-24,6.0,Online Banking,493.54,Groceries,2022-11,0.0,3
+44.0,F,Widowed,Low,2022-05-14,Feedback,Resolved,2023-07-17,2.0,Mobile App,325.98,Groceries,2022-04,0.0,1
+67.0,M,Widowed,Medium,2022-03-09,Complaint,Unresolved,2023-10-19,39.0,Mobile App,377.72,Clothing,2022-10,0.0,2
+64.0,F,Married,High,2022-12-14,Feedback,Resolved,2023-01-28,22.0,Mobile App,157.24,Furniture,2022-03,0.0,3
+47.0,M,Single,Low,2022-09-10,Complaint,Resolved,2023-09-07,11.0,Mobile App,408.06,Electronics,2022-03,1.0,1
+21.0,F,Widowed,Low,2022-10-31,Inquiry,Resolved,2023-08-10,15.0,Website,8.89,Books,2022-09,0.0,1
+28.0,M,Single,Medium,2022-09-22,Feedback,Resolved,2023-08-09,13.0,Online Banking,29.7,Groceries,2022-02,0.0,2
+38.0,F,Widowed,Medium,2022-02-17,Complaint,Resolved,2023-10-08,33.0,Online Banking,194.97,Furniture,2022-02,0.0,2
+60.0,F,Widowed,Low,2022-01-01,Inquiry,Resolved,2023-09-10,46.0,Mobile App,258.83,Clothing,2022-04,0.0,1
+19.0,M,Married,Low,2022-03-26,Complaint,Unresolved,2023-05-10,14.0,Website,191.97,Books,2022-05,0.0,1
+38.0,M,Widowed,Low,2022-10-17,Feedback,Unresolved,2023-08-20,39.0,Online Banking,378.87,Furniture,2022-10,1.0,1
+34.0,F,Widowed,High,2022-01-02,Inquiry,Unresolved,2023-09-20,2.0,Website,25.75,Electronics,2022-03,1.0,3
+60.0,M,Widowed,Medium,2022-05-02,Complaint,Unresolved,2023-04-28,10.0,Website,169.4,Electronics,2022-01,0.0,2
+68.0,F,Divorced,Low,2022-05-22,Inquiry,Resolved,2023-12-21,42.0,Website,326.0,Books,2022-12,1.0,1
+46.0,F,Single,Medium,2022-12-19,Feedback,Unresolved,2023-08-06,30.0,Online Banking,398.92,Groceries,2022-01,0.0,2
+44.0,F,Married,High,2022-06-30,Inquiry,Unresolved,2023-10-14,32.0,Website,271.46,Furniture,2022-04,0.0,3
+41.0,F,Married,Low,2022-12-09,Feedback,Resolved,2023-05-23,9.0,Website,50.47,Electronics,2022-11,0.0,1
+66.0,F,Married,Medium,2022-08-30,Complaint,Unresolved,2023-12-31,48.0,Online Banking,217.0,Furniture,2022-07,0.0,2
+20.0,M,Widowed,High,2022-02-21,Feedback,Resolved,2023-02-09,16.0,Website,196.98,Groceries,2022-04,0.0,3
+56.0,M,Single,Low,2022-09-24,Complaint,Unresolved,2023-12-29,39.0,Website,422.9,Books,2022-06,0.0,1
+27.0,M,Divorced,Medium,2022-12-14,Inquiry,Resolved,2023-05-27,5.0,Mobile App,349.33,Furniture,2022-03,0.0,2
+20.0,F,Divorced,Low,2022-03-31,Inquiry,Resolved,2023-01-03,46.0,Mobile App,263.08,Clothing,2022-08,1.0,1
+62.0,M,Married,Medium,2022-09-11,Complaint,Unresolved,2023-05-28,15.0,Online Banking,226.07,Electronics,2022-09,0.0,2
+59.0,M,Single,Medium,2022-03-29,Inquiry,Resolved,2023-09-05,4.0,Website,378.98,Groceries,2022-05,0.0,2
+43.0,M,Divorced,High,2022-07-14,Feedback,Unresolved,2023-09-07,24.0,Mobile App,367.1,Electronics,2022-08,0.0,3
+54.0,F,Married,High,2022-04-28,Feedback,Resolved,2023-11-14,25.0,Website,399.28,Electronics,2022-07,0.0,3
+44.0,M,Divorced,High,2022-03-11,Feedback,Unresolved,2023-12-19,37.0,Website,82.91,Furniture,2022-06,0.0,3
+22.0,M,Divorced,High,2022-03-24,Feedback,Resolved,2023-01-17,24.0,Website,290.67,Books,2022-08,0.0,3
+59.0,M,Single,High,2022-08-04,Feedback,Resolved,2023-08-20,42.0,Online Banking,52.3,Clothing,2022-05,1.0,3
+28.0,F,Married,Medium,2022-01-09,Feedback,Unresolved,2023-02-28,13.0,Mobile App,259.3,Electronics,2022-09,1.0,2
+30.0,M,Divorced,High,2022-10-27,Complaint,Unresolved,2023-08-18,20.0,Online Banking,313.26,Books,2022-12,0.0,3
+58.0,F,Widowed,Medium,2022-09-15,Complaint,Resolved,2023-02-10,5.0,Mobile App,492.32,Clothing,2022-02,0.0,2
+51.0,F,Widowed,Medium,2022-07-21,Feedback,Resolved,2023-02-17,20.0,Online Banking,184.49,Books,2022-10,0.0,2
+55.0,M,Divorced,Low,2022-05-09,Complaint,Resolved,2023-04-08,18.0,Online Banking,184.18,Furniture,2022-09,0.0,1
+57.0,F,Single,Medium,2022-08-11,Feedback,Resolved,2023-03-09,39.0,Mobile App,303.76,Clothing,2022-05,1.0,2
+50.0,M,Single,Medium,2022-03-02,Feedback,Resolved,2023-12-08,49.0,Website,53.41,Furniture,2022-05,0.0,2
+51.0,F,Divorced,High,2022-11-12,Inquiry,Resolved,2023-05-22,3.0,Online Banking,229.65,Books,2022-01,0.0,3
+44.0,M,Single,Medium,2022-05-15,Inquiry,Resolved,2023-08-21,44.0,Online Banking,181.34,Clothing,2022-10,0.0,2
+53.0,M,Single,High,2022-12-20,Feedback,Unresolved,2023-10-20,31.0,Online Banking,25.9,Furniture,2022-03,0.0,3
+43.0,F,Widowed,Medium,2022-08-22,Inquiry,Resolved,2023-12-17,30.0,Website,297.64,Electronics,2022-11,0.0,2
+68.0,M,Married,Medium,2022-05-20,Complaint,Resolved,2023-03-23,41.0,Online Banking,488.7,Furniture,2022-11,0.0,2
+42.0,F,Married,High,2022-04-25,Complaint,Resolved,2023-05-06,24.0,Website,311.07,Books,2022-12,0.0,3
+36.0,M,Divorced,Low,2022-11-10,Feedback,Resolved,2023-09-08,5.0,Online Banking,118.19,Furniture,2022-01,0.0,1
+38.0,F,Divorced,Medium,2022-01-13,Inquiry,Resolved,2023-06-19,20.0,Mobile App,452.48,Books,2022-12,0.0,2
+48.0,F,Divorced,Medium,2022-03-25,Feedback,Resolved,2023-01-29,24.0,Mobile App,297.02,Electronics,2022-03,0.0,2
+46.0,F,Widowed,High,2022-04-01,Feedback,Resolved,2023-12-31,17.0,Online Banking,449.96,Furniture,2022-11,1.0,3
+26.0,F,Widowed,High,2022-01-30,Feedback,Unresolved,2023-02-04,8.0,Online Banking,483.63,Groceries,2022-09,0.0,3
+36.0,F,Single,Low,2022-10-02,Inquiry,Resolved,2023-11-11,21.0,Website,148.79,Clothing,2022-03,0.0,1
+43.0,M,Widowed,Low,2022-07-17,Complaint,Unresolved,2023-07-18,14.0,Mobile App,152.24,Groceries,2022-12,1.0,1
+42.0,M,Married,Low,2022-02-20,Inquiry,Unresolved,2023-10-09,38.0,Online Banking,229.04,Furniture,2022-01,1.0,1
+57.0,F,Widowed,Medium,2022-10-15,Inquiry,Resolved,2023-10-12,32.0,Online Banking,143.19,Books,2022-12,0.0,2
+60.0,M,Divorced,Medium,2022-11-22,Feedback,Unresolved,2023-06-13,36.0,Online Banking,388.28,Furniture,2022-01,0.0,2
+46.0,M,Married,High,2022-10-16,Inquiry,Resolved,2023-07-17,40.0,Website,210.19,Electronics,2022-04,0.0,3
+42.0,F,Single,High,2022-06-09,Complaint,Resolved,2023-09-03,4.0,Mobile App,361.37,Books,2022-04,1.0,3
+36.0,F,Married,High,2022-06-28,Complaint,Resolved,2023-08-22,21.0,Website,167.09,Electronics,2022-05,0.0,3
+21.0,F,Widowed,Low,2022-10-22,Feedback,Resolved,2023-09-14,25.0,Mobile App,336.01,Furniture,2022-10,0.0,1
+62.0,F,Widowed,Low,2022-04-16,Feedback,Unresolved,2023-11-21,45.0,Mobile App,199.62,Books,2022-04,0.0,1
+37.0,M,Single,Low,2022-09-05,Complaint,Resolved,2023-07-21,1.0,Mobile App,266.32,Furniture,2022-01,0.0,1
+63.0,M,Divorced,Medium,2022-06-21,Complaint,Resolved,2023-06-06,47.0,Mobile App,408.04,Groceries,2022-03,1.0,2
+18.0,F,Single,Medium,2022-07-13,Feedback,Resolved,2023-08-26,13.0,Website,356.13,Furniture,2022-08,0.0,2
+28.0,M,Single,High,2022-01-19,Complaint,Resolved,2023-01-03,16.0,Online Banking,428.65,Clothing,2022-12,0.0,3
+21.0,M,Single,Low,2022-08-31,Inquiry,Resolved,2023-06-28,29.0,Mobile App,20.04,Furniture,2022-10,0.0,1
+24.0,F,Single,Medium,2022-09-04,Feedback,Resolved,2023-06-24,39.0,Mobile App,85.25,Furniture,2022-04,0.0,2
+45.0,M,Widowed,Low,2022-11-15,Complaint,Resolved,2023-08-04,29.0,Website,64.69,Furniture,2022-05,1.0,1
+53.0,M,Divorced,Medium,2022-08-26,Feedback,Unresolved,2023-03-29,12.0,Mobile App,122.82,Books,2022-12,0.0,2
+24.0,F,Married,Low,2022-05-30,Complaint,Resolved,2023-02-07,31.0,Website,355.6,Clothing,2022-01,0.0,1
+37.0,M,Divorced,Medium,2022-01-29,Complaint,Unresolved,2023-10-31,20.0,Mobile App,366.77,Books,2022-05,0.0,2
+52.0,M,Divorced,Medium,2022-06-06,Inquiry,Unresolved,2023-02-18,35.0,Online Banking,107.06,Clothing,2022-07,0.0,2
+68.0,M,Single,Medium,2022-11-03,Inquiry,Resolved,2023-09-19,41.0,Mobile App,302.03,Books,2022-11,0.0,2
+68.0,F,Divorced,Medium,2022-05-24,Complaint,Unresolved,2023-11-22,28.0,Online Banking,20.97,Groceries,2022-03,0.0,2
+56.0,F,Single,High,2022-07-27,Feedback,Unresolved,2023-01-03,35.0,Mobile App,173.08,Electronics,2022-07,1.0,3
+38.0,M,Married,Low,2022-06-28,Inquiry,Unresolved,2023-01-20,29.0,Website,244.37,Books,2022-05,0.0,1
+61.0,F,Single,Medium,2022-04-23,Inquiry,Unresolved,2023-08-20,44.0,Mobile App,230.56,Groceries,2022-01,1.0,2
+18.0,M,Married,Medium,2022-04-21,Inquiry,Unresolved,2023-01-29,39.0,Online Banking,426.22,Electronics,2022-04,0.0,2
+54.0,F,Divorced,Low,2022-11-21,Complaint,Resolved,2023-09-23,29.0,Mobile App,446.7,Books,2022-09,0.0,1
+63.0,M,Single,Medium,2022-09-20,Feedback,Resolved,2023-12-01,34.0,Website,477.4,Furniture,2022-08,0.0,2
+59.0,F,Widowed,Medium,2022-09-18,Complaint,Resolved,2023-07-12,10.0,Mobile App,444.97,Groceries,2022-08,0.0,2
+20.0,M,Married,Low,2022-08-26,Complaint,Resolved,2023-09-25,37.0,Online Banking,262.49,Clothing,2022-08,0.0,1
+51.0,M,Divorced,High,2022-10-21,Feedback,Unresolved,2023-05-18,48.0,Website,435.24,Groceries,2022-09,0.0,3
+30.0,F,Married,High,2022-01-24,Complaint,Resolved,2023-07-10,7.0,Mobile App,184.38,Furniture,2022-07,1.0,3
+33.0,M,Single,Medium,2022-04-11,Feedback,Unresolved,2023-08-08,9.0,Website,131.59,Furniture,2022-05,0.0,2
+51.0,M,Widowed,High,2022-08-05,Complaint,Resolved,2023-07-24,16.0,Website,422.53,Electronics,2022-07,0.0,3
+41.0,F,Married,High,2022-12-26,Complaint,Resolved,2023-05-27,21.0,Mobile App,357.22,Furniture,2022-11,0.0,3
+30.0,F,Married,Medium,2022-02-10,Inquiry,Resolved,2023-05-16,14.0,Website,441.8,Electronics,2022-01,0.0,2
+23.0,M,Married,Medium,2022-07-17,Complaint,Resolved,2023-03-07,2.0,Online Banking,238.69,Electronics,2022-05,0.0,2
+56.0,M,Divorced,High,2022-09-04,Inquiry,Resolved,2023-10-14,26.0,Online Banking,257.99,Books,2022-10,0.0,3
+19.0,M,Widowed,Medium,2022-07-07,Feedback,Unresolved,2023-03-20,34.0,Website,109.41,Books,2022-09,0.0,2
+28.0,F,Widowed,Medium,2022-05-27,Inquiry,Resolved,2023-06-10,47.0,Mobile App,217.52,Electronics,2022-03,0.0,2
+24.0,F,Widowed,High,2022-10-16,Complaint,Unresolved,2023-12-26,49.0,Website,99.6,Furniture,2022-09,0.0,3
+24.0,M,Married,Low,2022-11-09,Inquiry,Resolved,2023-12-20,18.0,Website,202.38,Clothing,2022-12,0.0,1
+56.0,M,Married,High,2022-07-15,Complaint,Unresolved,2023-07-22,12.0,Website,457.32,Books,2022-04,0.0,3
+56.0,M,Married,High,2022-05-30,Complaint,Unresolved,2023-12-15,19.0,Online Banking,367.77,Books,2022-02,1.0,3
+29.0,M,Married,High,2022-01-28,Inquiry,Unresolved,2023-01-18,36.0,Website,9.83,Books,2022-11,0.0,3
+68.0,F,Single,Medium,2022-11-29,Inquiry,Resolved,2023-09-16,38.0,Online Banking,447.04,Books,2022-10,0.0,2
+39.0,M,Single,High,2022-12-13,Feedback,Unresolved,2023-04-30,16.0,Website,71.74,Books,2022-07,0.0,3
+68.0,M,Divorced,Medium,2022-02-25,Feedback,Resolved,2023-10-20,46.0,Website,135.1,Furniture,2022-08,0.0,2
+68.0,F,Married,Low,2022-06-02,Feedback,Resolved,2023-12-29,8.0,Mobile App,62.04,Groceries,2022-08,0.0,1
+69.0,F,Divorced,High,2022-08-07,Inquiry,Resolved,2023-12-02,9.0,Website,264.9,Books,2022-10,0.0,3
+20.0,F,Widowed,Low,2022-07-22,Complaint,Resolved,2023-09-20,4.0,Online Banking,155.9,Electronics,2022-03,0.0,1
+30.0,F,Married,High,2022-02-17,Feedback,Unresolved,2023-05-31,36.0,Website,179.18,Books,2022-02,0.0,3
+47.0,M,Single,Medium,2022-04-05,Feedback,Resolved,2023-08-05,47.0,Website,350.04,Electronics,2022-03,0.0,2
+27.0,M,Married,Low,2022-05-14,Inquiry,Resolved,2023-07-11,38.0,Online Banking,106.22,Books,2022-01,0.0,1
+69.0,F,Widowed,High,2022-06-29,Inquiry,Resolved,2023-11-10,49.0,Online Banking,144.06,Clothing,2022-04,0.0,3
+26.0,F,Divorced,Low,2022-04-20,Inquiry,Unresolved,2023-04-01,49.0,Website,121.27,Clothing,2022-01,0.0,1
+23.0,M,Married,Medium,2022-10-21,Inquiry,Unresolved,2023-09-10,45.0,Website,74.53,Groceries,2022-05,0.0,2
+61.0,M,Single,Medium,2022-06-09,Feedback,Unresolved,2023-10-15,4.0,Website,27.14,Clothing,2022-12,0.0,2
+19.0,M,Widowed,High,2022-08-10,Complaint,Resolved,2023-10-05,8.0,Online Banking,463.56,Furniture,2022-11,0.0,3
+61.0,F,Widowed,High,2022-11-29,Inquiry,Unresolved,2023-01-09,43.0,Mobile App,429.79,Electronics,2022-09,0.0,3
+33.0,F,Divorced,Low,2022-07-16,Inquiry,Resolved,2023-08-21,7.0,Mobile App,224.68,Clothing,2022-12,0.0,1
+30.0,F,Married,Medium,2022-03-21,Complaint,Unresolved,2023-03-11,3.0,Website,469.67,Groceries,2022-07,0.0,2
+65.0,M,Single,Medium,2022-06-01,Inquiry,Resolved,2023-09-04,1.0,Online Banking,47.28,Groceries,2022-08,0.0,2
+30.0,M,Married,High,2022-10-02,Feedback,Resolved,2023-01-26,4.0,Mobile App,322.61,Groceries,2022-02,0.0,3
+39.0,M,Single,Medium,2022-10-08,Inquiry,Resolved,2023-03-01,1.0,Mobile App,89.97,Electronics,2022-02,0.0,2
+36.0,F,Divorced,Medium,2022-09-15,Feedback,Resolved,2023-03-15,46.0,Website,265.48,Groceries,2022-10,0.0,2
+43.0,F,Widowed,Medium,2022-06-05,Feedback,Resolved,2023-01-16,42.0,Mobile App,485.2,Clothing,2022-08,0.0,2
+31.0,M,Divorced,Low,2022-07-06,Feedback,Resolved,2023-10-14,38.0,Mobile App,43.2,Electronics,2022-05,0.0,1
+48.0,M,Widowed,Low,2022-09-30,Complaint,Resolved,2023-08-21,37.0,Mobile App,416.95,Books,2022-11,0.0,1
+46.0,F,Married,Low,2022-04-10,Inquiry,Unresolved,2023-09-26,12.0,Mobile App,124.42,Books,2022-12,0.0,1
+62.0,F,Widowed,Medium,2022-05-03,Inquiry,Unresolved,2023-11-22,42.0,Online Banking,368.25,Groceries,2022-12,0.0,2
+59.0,F,Single,High,2022-01-25,Complaint,Unresolved,2023-08-21,10.0,Mobile App,282.43,Groceries,2022-03,0.0,3
+39.0,M,Divorced,High,2022-07-02,Feedback,Unresolved,2023-01-09,47.0,Online Banking,444.52,Clothing,2022-11,0.0,3
+24.0,M,Widowed,High,2022-10-04,Feedback,Unresolved,2023-12-16,1.0,Website,271.16,Clothing,2022-12,1.0,3
+54.0,F,Widowed,Low,2022-03-25,Feedback,Resolved,2023-03-23,2.0,Online Banking,480.14,Furniture,2022-01,0.0,1
+66.0,M,Married,Medium,2022-04-08,Complaint,Resolved,2023-01-14,12.0,Website,359.68,Clothing,2022-10,0.0,2
+58.0,F,Married,Low,2022-01-27,Feedback,Unresolved,2023-09-17,39.0,Online Banking,90.94,Electronics,2022-10,0.0,1
+44.0,M,Married,Low,2022-05-04,Complaint,Resolved,2023-06-22,48.0,Mobile App,392.0,Electronics,2022-03,1.0,1
+48.0,M,Single,High,2022-01-30,Inquiry,Unresolved,2023-11-24,36.0,Mobile App,168.89,Books,2022-09,0.0,3
+23.0,M,Married,High,2022-10-07,Feedback,Resolved,2023-11-27,7.0,Online Banking,431.98,Groceries,2022-10,0.0,3
+33.0,F,Widowed,Medium,2022-12-22,Inquiry,Resolved,2023-04-03,38.0,Website,410.31,Groceries,2022-07,1.0,2
+55.0,M,Single,Low,2022-05-29,Feedback,Unresolved,2023-06-07,25.0,Website,293.15,Groceries,2022-06,0.0,1
+55.0,F,Married,Medium,2022-12-08,Inquiry,Unresolved,2023-12-06,3.0,Website,16.77,Groceries,2022-09,0.0,2
+67.0,M,Widowed,Low,2022-04-24,Feedback,Unresolved,2023-02-02,27.0,Online Banking,80.42,Furniture,2022-02,0.0,1
+49.0,F,Single,Medium,2022-06-21,Inquiry,Unresolved,2023-08-16,24.0,Online Banking,264.5,Groceries,2022-11,0.0,2
+50.0,F,Widowed,Low,2022-10-09,Complaint,Resolved,2023-02-27,27.0,Mobile App,150.66,Clothing,2022-09,0.0,1
+66.0,F,Married,Medium,2022-06-25,Feedback,Unresolved,2023-07-30,6.0,Mobile App,287.09,Furniture,2022-04,0.0,2
+34.0,F,Married,Low,2022-01-31,Feedback,Resolved,2023-09-17,25.0,Mobile App,449.79,Groceries,2022-10,0.0,1
+50.0,F,Single,Low,2022-10-12,Feedback,Resolved,2023-07-31,43.0,Website,7.21,Electronics,2022-09,0.0,1
+28.0,M,Divorced,High,2022-10-05,Complaint,Unresolved,2023-06-22,31.0,Online Banking,125.64,Clothing,2022-12,0.0,3
+30.0,M,Widowed,Low,2022-12-17,Inquiry,Unresolved,2023-08-31,44.0,Mobile App,64.86,Furniture,2022-05,0.0,1
+47.0,F,Widowed,High,2022-08-25,Feedback,Unresolved,2023-05-10,9.0,Mobile App,233.53,Furniture,2022-01,0.0,3
+18.0,F,Divorced,Medium,2022-07-05,Feedback,Unresolved,2023-10-11,39.0,Mobile App,162.48,Clothing,2022-06,1.0,2
+47.0,F,Divorced,High,2022-09-28,Inquiry,Resolved,2023-12-14,29.0,Website,20.24,Books,2022-11,1.0,3
+44.0,M,Widowed,Low,2022-09-15,Feedback,Unresolved,2023-10-08,14.0,Mobile App,493.02,Clothing,2022-04,0.0,1
+57.0,F,Single,High,2022-02-04,Feedback,Resolved,2023-11-05,36.0,Online Banking,310.55,Books,2022-02,0.0,3
+40.0,M,Divorced,High,2022-08-02,Complaint,Resolved,2023-08-10,29.0,Website,225.4,Electronics,2022-06,0.0,3
+37.0,F,Married,Medium,2022-06-02,Complaint,Resolved,2023-02-10,43.0,Website,97.95,Furniture,2022-10,0.0,2
+23.0,M,Single,High,2022-06-17,Inquiry,Unresolved,2023-03-25,41.0,Website,252.74,Groceries,2022-12,1.0,3
+54.0,F,Divorced,Medium,2022-06-20,Complaint,Unresolved,2023-01-20,38.0,Mobile App,424.94,Clothing,2022-07,1.0,2
+37.0,M,Married,Medium,2022-05-26,Inquiry,Resolved,2023-05-03,22.0,Online Banking,456.67,Furniture,2022-08,1.0,2
+54.0,M,Married,High,2022-11-11,Complaint,Unresolved,2023-06-06,12.0,Mobile App,155.02,Furniture,2022-07,1.0,3
+23.0,F,Widowed,Low,2022-08-24,Inquiry,Resolved,2023-05-21,40.0,Website,388.89,Books,2022-05,0.0,1
+46.0,F,Single,Medium,2022-10-20,Feedback,Resolved,2023-02-16,49.0,Online Banking,30.56,Clothing,2022-06,0.0,2
+30.0,F,Divorced,High,2022-03-02,Feedback,Resolved,2023-08-10,26.0,Website,216.1,Electronics,2022-11,0.0,3
+44.0,F,Married,Medium,2022-07-09,Complaint,Unresolved,2023-03-10,46.0,Mobile App,283.29,Groceries,2022-01,0.0,2
+67.0,M,Widowed,High,2022-06-17,Feedback,Resolved,2023-06-05,28.0,Online Banking,262.13,Groceries,2022-10,0.0,3
+37.0,M,Divorced,High,2022-02-06,Feedback,Unresolved,2023-04-29,21.0,Website,399.7,Groceries,2022-05,0.0,3
+30.0,M,Married,Low,2022-07-20,Inquiry,Unresolved,2023-11-14,27.0,Mobile App,62.29,Electronics,2022-02,0.0,1
+56.0,M,Widowed,High,2022-07-02,Complaint,Unresolved,2023-10-28,33.0,Website,70.07,Groceries,2022-04,1.0,3
+25.0,M,Married,Medium,2022-12-10,Feedback,Unresolved,2023-07-28,29.0,Mobile App,124.39,Books,2022-05,0.0,2
+34.0,M,Widowed,Medium,2022-01-06,Inquiry,Unresolved,2023-03-30,24.0,Mobile App,318.77,Books,2022-05,1.0,2
+47.0,F,Widowed,Low,2022-10-02,Inquiry,Unresolved,2023-06-19,32.0,Website,130.68,Electronics,2022-02,0.0,1
+18.0,M,Single,Medium,2022-12-05,Feedback,Unresolved,2023-11-22,6.0,Website,404.61,Furniture,2022-11,0.0,2
+41.0,M,Divorced,Low,2022-05-19,Inquiry,Resolved,2023-04-04,27.0,Mobile App,326.09,Electronics,2022-02,0.0,1
+33.0,M,Widowed,High,2022-07-15,Inquiry,Unresolved,2023-09-22,16.0,Website,317.56,Clothing,2022-01,0.0,3
+28.0,F,Married,High,2022-06-04,Inquiry,Resolved,2023-06-13,36.0,Online Banking,114.83,Groceries,2022-07,0.0,3
+21.0,M,Divorced,High,2022-05-02,Complaint,Unresolved,2023-03-19,47.0,Website,330.11,Groceries,2022-11,0.0,3
+21.0,F,Divorced,Low,2022-03-23,Feedback,Resolved,2023-06-04,30.0,Website,350.28,Furniture,2022-12,0.0,1
+34.0,M,Divorced,Medium,2022-02-24,Feedback,Resolved,2023-07-20,15.0,Website,369.77,Electronics,2022-11,0.0,2
+66.0,M,Single,Medium,2022-04-10,Feedback,Resolved,2023-11-13,8.0,Mobile App,452.48,Electronics,2022-04,0.0,2
+27.0,F,Widowed,High,2022-03-23,Feedback,Resolved,2023-05-06,31.0,Website,270.34,Clothing,2022-07,1.0,3
+38.0,M,Widowed,Medium,2022-10-04,Feedback,Resolved,2023-02-12,9.0,Mobile App,364.98,Books,2022-01,1.0,2
+55.0,M,Widowed,Low,2022-04-27,Complaint,Unresolved,2023-06-12,42.0,Online Banking,145.6,Furniture,2022-09,0.0,1
+66.0,F,Widowed,Low,2022-11-17,Inquiry,Unresolved,2023-04-22,21.0,Online Banking,289.38,Clothing,2022-07,0.0,1
+35.0,F,Married,Low,2022-02-26,Complaint,Resolved,2023-11-08,39.0,Online Banking,226.47,Clothing,2022-04,0.0,1
+27.0,M,Widowed,Low,2022-09-09,Complaint,Unresolved,2023-03-20,39.0,Website,362.54,Furniture,2022-06,0.0,1
+62.0,M,Divorced,Medium,2022-10-13,Inquiry,Resolved,2023-10-21,43.0,Website,362.75,Groceries,2022-02,0.0,2
+33.0,F,Widowed,Low,2022-02-04,Complaint,Unresolved,2023-07-20,20.0,Online Banking,243.5,Electronics,2022-05,0.0,1
+56.0,F,Widowed,Medium,2022-09-26,Complaint,Resolved,2023-12-08,26.0,Website,361.18,Books,2022-04,0.0,2
+32.0,F,Widowed,High,2022-01-29,Feedback,Unresolved,2023-10-20,38.0,Online Banking,267.54,Groceries,2022-07,0.0,3
+51.0,F,Widowed,Medium,2022-05-19,Feedback,Resolved,2023-06-01,43.0,Mobile App,208.97,Books,2022-02,0.0,2
+22.0,M,Single,Low,2022-06-21,Complaint,Unresolved,2023-05-21,14.0,Online Banking,267.77,Electronics,2022-05,0.0,1
+34.0,M,Divorced,Medium,2022-10-04,Inquiry,Unresolved,2023-11-17,48.0,Online Banking,236.98,Electronics,2022-01,0.0,2
+54.0,F,Single,High,2022-10-21,Feedback,Unresolved,2023-02-10,41.0,Online Banking,109.14,Furniture,2022-11,0.0,3
+25.0,M,Divorced,High,2022-03-04,Complaint,Resolved,2023-05-01,21.0,Mobile App,103.62,Electronics,2022-02,0.0,3
+41.0,F,Widowed,High,2022-12-23,Inquiry,Resolved,2023-04-04,19.0,Online Banking,466.37,Groceries,2022-12,1.0,3
+45.0,F,Widowed,Medium,2022-07-05,Complaint,Unresolved,2023-09-17,14.0,Online Banking,236.93,Books,2022-01,0.0,2
+64.0,M,Divorced,Low,2022-04-08,Complaint,Unresolved,2023-03-13,9.0,Online Banking,134.62,Groceries,2022-03,0.0,1
+25.0,F,Divorced,Low,2022-05-02,Feedback,Unresolved,2023-07-11,42.0,Mobile App,491.25,Clothing,2022-05,1.0,1
+40.0,F,Single,Medium,2022-06-18,Feedback,Unresolved,2023-05-16,4.0,Mobile App,355.25,Electronics,2022-07,1.0,2
+52.0,M,Single,Low,2022-12-10,Feedback,Unresolved,2023-04-28,23.0,Online Banking,304.64,Books,2022-02,0.0,1
+48.0,M,Married,Low,2022-10-02,Inquiry,Resolved,2023-01-17,22.0,Online Banking,49.43,Books,2022-07,0.0,1
+34.0,F,Married,Medium,2022-06-13,Feedback,Unresolved,2023-04-25,20.0,Online Banking,255.56,Electronics,2022-02,0.0,2
+45.0,M,Single,High,2022-02-12,Feedback,Unresolved,2023-03-22,19.0,Website,315.8,Furniture,2022-12,1.0,3
+65.0,M,Married,Low,2022-11-19,Inquiry,Resolved,2023-10-17,19.0,Mobile App,84.67,Books,2022-06,1.0,1
+65.0,M,Single,High,2022-06-14,Inquiry,Resolved,2023-10-26,23.0,Mobile App,48.52,Books,2022-11,0.0,3
+68.0,M,Single,Low,2022-11-01,Feedback,Resolved,2023-10-18,31.0,Website,260.54,Books,2022-08,0.0,1
+29.0,M,Single,High,2022-06-22,Inquiry,Unresolved,2023-09-12,46.0,Mobile App,210.88,Furniture,2022-11,0.0,3
+41.0,M,Married,High,2022-05-17,Complaint,Unresolved,2023-09-14,19.0,Mobile App,179.79,Books,2022-03,1.0,3
+32.0,F,Divorced,Low,2022-12-04,Inquiry,Resolved,2023-02-17,44.0,Online Banking,457.76,Clothing,2022-07,0.0,1
+57.0,M,Widowed,Low,2022-11-12,Complaint,Unresolved,2023-02-08,20.0,Online Banking,219.09,Electronics,2022-05,0.0,1
+48.0,F,Married,Medium,2022-06-28,Feedback,Unresolved,2023-09-14,26.0,Mobile App,114.54,Books,2022-11,0.0,2
+44.0,F,Widowed,Low,2022-03-15,Complaint,Unresolved,2023-05-18,6.0,Website,221.19,Groceries,2022-05,1.0,1
+52.0,F,Widowed,Low,2022-03-02,Inquiry,Resolved,2023-05-04,28.0,Online Banking,290.31,Electronics,2022-06,0.0,1
+35.0,M,Divorced,Medium,2022-04-05,Complaint,Resolved,2023-09-23,41.0,Website,240.01,Books,2022-03,0.0,2
+53.0,M,Married,High,2022-10-10,Complaint,Unresolved,2023-06-20,4.0,Mobile App,60.51,Electronics,2022-07,1.0,3
+25.0,F,Widowed,Medium,2022-07-24,Feedback,Resolved,2023-05-09,49.0,Mobile App,343.69,Electronics,2022-01,0.0,2
+63.0,F,Divorced,High,2022-09-07,Complaint,Unresolved,2023-05-01,44.0,Website,150.23,Groceries,2022-10,0.0,3
+66.0,F,Divorced,Medium,2022-09-26,Inquiry,Resolved,2023-03-04,9.0,Website,478.77,Furniture,2022-01,0.0,2
+55.0,F,Single,Low,2022-11-14,Complaint,Resolved,2023-11-08,49.0,Online Banking,464.52,Furniture,2022-04,0.0,1
+22.0,M,Married,Low,2022-05-30,Complaint,Unresolved,2023-06-08,14.0,Mobile App,391.41,Groceries,2022-05,1.0,1
+31.0,F,Widowed,High,2022-03-20,Complaint,Resolved,2023-02-14,31.0,Website,86.29,Groceries,2022-09,0.0,3
+55.0,M,Divorced,Low,2022-04-28,Feedback,Unresolved,2023-07-26,29.0,Website,130.84,Books,2022-11,1.0,1
+37.0,F,Widowed,High,2022-05-11,Feedback,Resolved,2023-06-07,49.0,Mobile App,390.4,Clothing,2022-01,1.0,3
+61.0,M,Married,Medium,2022-01-01,Inquiry,Resolved,2023-09-17,22.0,Website,119.38,Groceries,2022-03,0.0,2
+26.0,M,Single,Low,2022-05-27,Complaint,Resolved,2023-03-26,9.0,Website,446.8,Books,2022-02,0.0,1
+50.0,F,Widowed,High,2022-04-12,Complaint,Unresolved,2023-12-27,11.0,Website,336.18,Electronics,2022-06,0.0,3
+35.0,F,Single,Medium,2022-02-22,Inquiry,Unresolved,2023-07-23,25.0,Mobile App,324.7,Groceries,2022-03,0.0,2
+23.0,F,Divorced,Low,2022-10-07,Complaint,Unresolved,2023-07-31,34.0,Website,288.64,Electronics,2022-10,1.0,1
+54.0,F,Single,Low,2022-08-03,Complaint,Unresolved,2023-01-29,38.0,Mobile App,437.63,Electronics,2022-12,0.0,1
+19.0,M,Widowed,High,2022-09-17,Feedback,Resolved,2023-04-01,5.0,Mobile App,313.57,Books,2022-02,0.0,3
+47.0,M,Married,Low,2022-10-25,Complaint,Unresolved,2023-07-10,47.0,Website,25.51,Furniture,2022-05,0.0,1
+23.0,M,Widowed,High,2022-09-29,Feedback,Unresolved,2023-01-08,23.0,Website,377.85,Furniture,2022-10,0.0,3
+34.0,M,Widowed,Low,2022-07-02,Complaint,Unresolved,2023-08-13,22.0,Mobile App,379.03,Books,2022-08,0.0,1
