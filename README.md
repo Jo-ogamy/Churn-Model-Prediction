@@ -1,2 +1,2 @@
-# Churn-Model-Prediction
-prediction of customer behaviour
+# LLOYDS BANKING GROUP CUSTOMER DATASETS
+CHURN PREDITION MODEL
